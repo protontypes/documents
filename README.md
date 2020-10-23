@@ -1,2 +1,2 @@
 # documents
-Public Documents like Funding Applications
+Public Documents like Funding Applications or Conference Slides
