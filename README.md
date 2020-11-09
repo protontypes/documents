@@ -14,9 +14,10 @@ Public Documents like Funding Applications or Conference Slides
 
 ### High Prio
 
-* Slides for Climathon (or other events)
+* Slides for Climathon (or other events). We need to finish them.
 * Slides for integration of LS into Awesome List
 * Add sources to slides
+* White Paper for Open Sustainable Technology Platform / Knowledge Base
 
 ### Low Prio
 
