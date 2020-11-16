@@ -1,6 +1,6 @@
 # documents
 
-Public Documents like Funding Applications or Conference Slides
+Documents related to the protontypes organization
 
 
 ## Discussions
