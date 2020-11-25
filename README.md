@@ -1,4 +1,4 @@
 # Documents of protontypes
 
-Documents like project slides and funding applications if protontypes
+Documents such as project slides and funding applications for protontypes.
 
