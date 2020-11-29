@@ -14,30 +14,38 @@ And what does in mean?
 We derive our understanding of _Open Source_ mainly from the [definition of Open Source](https://opensource.org/osd) by the Open Source Initiative.
 This definition focuses on sofware and source code and software. Since its beginning in this field, the idea spread 
 
+* Open technology definition
 
 
 ### Sustainable Technologies
 
+* https://world-nuclear.org/information-library/energy-and-the-environment/nuclear-energy-and-sustainable-development.aspx
+* Sustainable Development Goals (SDGs)
+* 
 
+
+## Now what about Nuclear Energy?
+
+### Open NE
+
+* We looked, but didn't fint anything
+* Maybe like three projects so far
+
+### Sustainable NE
+
+
+## Nuclear Stigma
+
+Is NE stigmatized?
 
 
 
 - - -
 
-## Not Free
-
-* We looked, but didn't fint anything
-* research still necessary
-
-
-
-
-### Conclusion so far
+# More Talking Points
 
 While it is true, that the generation of heat for the steam generator produces no greenhouse gases and other issues,
 the surrounding infrastructure cannot provide the same.
-
-## More Talking Points
 
 * Produktion of fuel not renewable?
 * not renewable in itself, therefore not sustainable in the long run?
