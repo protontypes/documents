@@ -58,7 +58,9 @@ the surrounding infrastructure cannot provide the same.
 * safety
   * admittedly, a lot of panic here
   * real dangers: waste, malfunctions, human error
+  * Most nations do not have the political stability to ensure safety culture over a long time that is needed for atomic energy. [Boeing 737 MAX groundings](https://en.wikipedia.org/wiki/Boeing_737_MAX_groundings)
 * centralisation vs decentralisation in the aspect of sustainability
+* Research and development makes a lot of sense, but the current technological status is not globally scaled due to maintenance and security criteria. 
 
 
 - - -
