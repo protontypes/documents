@@ -87,5 +87,3 @@ the surrounding infrastructure cannot provide the same.
   * Wahrschenlichkeit die sich bisher ergeben hat -> skalieren auf "die Welt verwendet nukleare Energie"
 * ITER (recherche dazu)
   
-
-
