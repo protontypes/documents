@@ -12,7 +12,17 @@ And what does in mean?
 ### Open Technologies
 
 We derive our understanding of _Open Source_ mainly from the [definition of Open Source](https://opensource.org/osd) by the Open Source Initiative.
-This definition focuses on sofware and source code and software. Since its beginning in this field, the idea spread 
+This definition focuses on sofware and source code and software.
+Additionally, we build on the [Open Source Hardware (OSHW) Statement of Principles](https://www.oshwa.org/definition/).
+_Technology_ consists for us of both software and hardware (electric and mechanical hardware designs).
+
+Looking at the definitions mentioned above we can evaluate if a project is open source:
+
+1. The used license does not restrict any party from distributing the source code or files. Furthermore, the used license does not require any form of payment.
+2. The source code or documentation (CAD files, technical drawings, etc.) are easily available.
+3. Aforementioned source code and/or documentation can be modified.
+4. 
+
 
 * Open technology definition
 
