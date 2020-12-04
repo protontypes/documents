@@ -47,6 +47,8 @@ Write later, after main document is done...
   * slows down global development in fight of climate/social problems
   * Closed Knowledge is inhibiting progress as well
 
+* Sustainable Beratung ist technisch nicht versiert
+
 
 ## Background
 
@@ -69,6 +71,9 @@ Write later, after main document is done...
 
 
 ## Solution
+
+* Wir bieten Werkzeuge und Fachwissen an
+* Wir schlagen die Brücke zwischen BWL und Wissenschaft
 
 * Documentation of projects
 * Funding for projects
