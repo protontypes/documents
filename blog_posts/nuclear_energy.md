@@ -16,23 +16,29 @@ This definition focuses on sofware and source code and software.
 Additionally, we build on the [Open Source Hardware (OSHW) Statement of Principles](https://www.oshwa.org/definition/).
 _Technology_ consists for us of both software and hardware (electric and mechanical hardware designs).
 
-Looking at the definitions mentioned above we can evaluate if a project is open source:
+Looking at the definitions mentioned above we can evaluate if a project is open source, using our adapted rules (derived from the sources mentioned above):
 
 1. The used license does not restrict any party from distributing the source code or files. Furthermore, the used license does not require any form of payment.
 2. The source code or documentation (CAD files, technical drawings, etc.) are easily available.
 3. Aforementioned source code and/or documentation can be modified.
-4. 
-
-
-* Open technology definition
+4. No Discrimination against person or groups or fields of endeavour.
+5. The used license may require the attribution to the licensor and that this information is available to the user. This may carry on to derived works.
+6. The rights granted by the license must apply to all to whom the work is redistributed without the need for execution of an additional license by those parties. (Verbatim from the oshwa definition)
+7. License Must Be Technology-Neutral
 
 
 ### Sustainable Technologies
 
+
+Similary, we need a definition of _sustainable_ to evaluate a project.
+
+
+
 * https://world-nuclear.org/information-library/energy-and-the-environment/nuclear-energy-and-sustainable-development.aspx
 * Sustainable Development Goals (SDGs)
+* Definition of Sustainable much more unclear
+* basic definition: regenerates as much as it is consumed
 * 
-
 
 ## Now what about Nuclear Energy?
 
