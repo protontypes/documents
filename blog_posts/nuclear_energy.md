@@ -36,9 +36,13 @@ Similary, we need a definition of _sustainable_ to evaluate a project.
 
 * https://world-nuclear.org/information-library/energy-and-the-environment/nuclear-energy-and-sustainable-development.aspx
 * Sustainable Development Goals (SDGs)
-* Definition of Sustainable much more unclear
 * basic definition: regenerates as much as it is consumed
-* 
+* https://en.wikipedia.org/wiki/Category:Sustainable_technologies
+* https://www.researchgate.net/publication/230873698_What_is_Sustainable_Technology_Perceptions_Paradoxes_and_Possibilities
+* https://www.sustainablejungle.com/sustainable-tech/slow-sustainable-technology/
+* http://www.un-documents.net/our-common-future.pdf
+
+
 
 ## Now what about Nuclear Energy?
 
