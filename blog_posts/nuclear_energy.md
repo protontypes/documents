@@ -1,4 +1,4 @@
-# Why is Nuclear Energy not sustainable?
+# Is Nuclear Energy open and sustainable?
 
 This post should answer the question why we think Nuclear Energy is not an open and sustainable technology and is therefore not included on our [Open Sustainable Technologies list](https://opensustain.tech/).
 From [previous](https://news.ycombinator.com/item?id=25217989) [encounters](https://www.reddit.com/r/climatechange/comments/jdl5s8/open_source_projects_to_sustain_stable_climate/) with this question and the following discussion we took it upon us to derive a reasonable explanation to help along future discourses about this.
