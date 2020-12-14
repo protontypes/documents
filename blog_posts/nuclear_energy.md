@@ -29,10 +29,12 @@ Looking at the definitions mentioned above we can evaluate if a project is open 
 
 ### Sustainable Technologies
 
+Similary, we need a definition of _Sustainable Technology_ to evaluate a project.
+[The Brundtland Report from 1987 states:](https://www.are.admin.ch/are/en/home/sustainable-development/international-cooperation/2030agenda/un-_-milestones-in-sustainable-development/1987--brundtland-report.html)
 
-Similary, we need a definition of _sustainable_ to evaluate a project.
+  "Sustainable development is a development that meets the needs of the present without compromising the ability of future generations to meet their own needs."
 
-
+Technology plays a part in our everyday life. Therefore sustainable technology is technology that adheeres to the same principle.
 
 * https://world-nuclear.org/information-library/energy-and-the-environment/nuclear-energy-and-sustainable-development.aspx
 * Sustainable Development Goals (SDGs)
@@ -43,8 +45,9 @@ Similary, we need a definition of _sustainable_ to evaluate a project.
 * http://www.un-documents.net/our-common-future.pdf
 
 
-
 ## Now what about Nuclear Energy?
+
+Nuclear Energy 
 
 ### Open NE
 
