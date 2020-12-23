@@ -1,6 +1,6 @@
 # 4 Reasons why a Sustainable Economy Transformation needs to be Open
 
-> Probleme kann man niemals mit derselben Denkweise lösen, durch die sie entstanden sind. (Albert Einstein)
+> We cannot solve our problems with the same thinking we used when we created them. (Albert Einstein)
 
 A sustainable transformation of our economy is an inevitable process that will challenge an entire generation. Open source and open principles play a crucial role in this transformation. Here are 4 reasons why a sustainable transformation must be open:
 
