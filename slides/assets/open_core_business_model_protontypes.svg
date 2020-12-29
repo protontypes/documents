@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="368.88989mm"
+   height="140.68564mm"
+   viewBox="0 0 368.88987 140.68564"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="open_core_business_model_protontypes.svg">
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2245"
+       x="-0.0023917926"
+       width="1.0047836"
+       y="-0.002408264"
+       height="1.0048165">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0778867"
+         id="feGaussianBlur2247" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2237-7"
+       x="-0.0058938302"
+       width="1.0117877"
+       y="-0.0092024282"
+       height="1.0184048">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0778867"
+         id="feGaussianBlur2239-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2241-3"
+       x="-0.0037385616"
+       width="1.007477"
+       y="-0.0037385616"
+       height="1.007477">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0778867"
+         id="feGaussianBlur2243-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2245-2"
+       x="-0.0023917926"
+       width="1.0047836"
+       y="-0.002408264"
+       height="1.0048165">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0778867"
+         id="feGaussianBlur2247-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2237-7-3"
+       x="-0.0058938302"
+       width="1.0117877"
+       y="-0.0092024282"
+       height="1.0184048">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0778867"
+         id="feGaussianBlur2239-5-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2241-3-5"
+       x="-0.0037385616"
+       width="1.007477"
+       y="-0.0037385616"
+       height="1.007477">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0778867"
+         id="feGaussianBlur2243-5-9" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2237-7-3-3"
+       x="-0.0058938302"
+       width="1.0117877"
+       y="-0.0092024282"
+       height="1.0184048">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0778867"
+         id="feGaussianBlur2239-5-7-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2237-7-3-3-4"
+       x="-0.0058938302"
+       width="1.0117877"
+       y="-0.0092024282"
+       height="1.0184048">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0778867"
+         id="feGaussianBlur2239-5-7-6-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2237-7-3-6"
+       x="-0.0058938302"
+       width="1.0117877"
+       y="-0.0092024282"
+       height="1.0184048">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0778867"
+         id="feGaussianBlur2239-5-7-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2241-3-5-6"
+       x="-0.0037385616"
+       width="1.007477"
+       y="-0.0037385616"
+       height="1.007477">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0778867"
+         id="feGaussianBlur2243-5-9-9" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2245-3"
+       x="-0.0023917926"
+       width="1.0047836"
+       y="-0.002408264"
+       height="1.0048165">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0778867"
+         id="feGaussianBlur2247-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2237-7-3-3-4-8"
+       x="-0.0058938302"
+       width="1.0117877"
+       y="-0.0092024282"
+       height="1.0184048">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0778867"
+         id="feGaussianBlur2239-5-7-6-7-6" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="642.80038"
+     inkscape:cy="222.92089"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid881"
+       originx="-2.6765568"
+       originy="-381.80481" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(102.55841,18.875828)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot834"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion836"><rect
+           id="rect838"
+           width="760"
+           height="637.14288"
+           x="-148.57143"
+           y="171.09108" /></flowRegion><flowPara
+         id="flowPara840" /></flowRoot>    <g
+       id="g1447"
+       transform="translate(0,3.8941058)">
+      <g
+         transform="translate(-44.979167)"
+         id="g1425">
+        <circle
+           id="path10-35-1"
+           cx="-45.240662"
+           cy="92.73159"
+           style="opacity:1;fill:#00e3e6;fill-opacity:1;stroke-width:0.20588234;filter:url(#filter2241-3)"
+           r="25"
+           transform="matrix(1.2552292,0,0,1.2249911,30.823524,-26.533424)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter2237-7)"
+           x="-26.148363"
+           y="81.619934"
+           id="text1423-2"><tspan
+             sodipodi:role="line"
+             x="-26.148363"
+             y="81.619934"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan1033">Open Technology</tspan><tspan
+             sodipodi:role="line"
+             x="-26.148363"
+             y="88.711456"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan1051"> Research</tspan><tspan
+             sodipodi:role="line"
+             x="-26.148363"
+             y="95.802986"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan1049"> and Scouting</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1439"
+       transform="translate(14.911065,1.6848229)">
+      <ellipse
+         transform="matrix(1.2859297,0,0,1.2859297,-37.505931,-33.375197)"
+         ry="38.809715"
+         rx="39.076984"
+         style="opacity:1;fill:#3c53ff;fill-opacity:1;stroke-width:0.32070804;filter:url(#filter2245)"
+         cy="80.372391"
+         cx="66.004097"
+         id="path10" />
+      <g
+         transform="translate(-20.032738)"
+         id="g1418">
+        <circle
+           id="path10-35-1-2"
+           cx="-45.240662"
+           cy="92.73159"
+           style="opacity:1;fill:#00e3e6;fill-opacity:1;stroke-width:0.20588234;filter:url(#filter2241-3-5)"
+           r="25"
+           transform="matrix(1.2552292,0,0,1.2249911,123.21509,-24.842409)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter2237-7-3)"
+           x="66.243202"
+           y="82.954781"
+           id="text1423-2-2"><tspan
+             sodipodi:role="line"
+             x="66.243202"
+             y="82.954781"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan1033-8">Open Technology</tspan><tspan
+             sodipodi:role="line"
+             x="66.243202"
+             y="90.046303"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan1051-9"> Research</tspan><tspan
+             sodipodi:role="line"
+             x="66.243202"
+             y="97.137833"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan1049-7"> and Scouting</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter2237-7-3-3)"
+           x="67.260811"
+           y="38.865822"
+           id="text1423-2-2-1"><tspan
+             sodipodi:role="line"
+             x="67.260811"
+             y="38.865822"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan1049-7-3">Marketing</tspan><tspan
+             sodipodi:role="line"
+             x="68.085564"
+             y="45.957348"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan1168">and Support </tspan><tspan
+             sodipodi:role="line"
+             x="68.085564"
+             y="53.04887"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan1170">of Open Projects </tspan><tspan
+             sodipodi:role="line"
+             x="67.260811"
+             y="60.140396"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan1144" /></text>
+      </g>
+    </g>
+    <g
+       id="g1406">
+      <g
+         transform="translate(-12.473214,-0.37797619)"
+         id="g1388">
+        <ellipse
+           id="path10-1"
+           cx="187.75804"
+           cy="80.81546"
+           style="opacity:1;fill:#00e6a7;fill-opacity:1;stroke-width:0.32070804;filter:url(#filter2245-2)"
+           rx="39.076984"
+           ry="38.809715"
+           transform="matrix(1.8038173,0,0,1.8038173,-130.70143,-93.931357)" />
+        <ellipse
+           id="path10-4"
+           cx="66.004097"
+           cy="80.372391"
+           style="opacity:1;fill:#3c53ff;fill-opacity:1;stroke-width:0.32070804;filter:url(#filter2245-3)"
+           rx="39.076984"
+           ry="38.809715"
+           transform="matrix(1.2859297,0,0,1.2859297,123.29212,-31.987188)" />
+        <circle
+           id="path10-35-1-2-5"
+           cx="-45.240662"
+           cy="92.73159"
+           style="opacity:1;fill:#00e3e6;fill-opacity:1;stroke-width:0.20588234;filter:url(#filter2241-3-5-6)"
+           r="25"
+           transform="matrix(1.2552292,0,0,1.2249911,263.98041,-23.454402)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter2237-7-3-6)"
+           x="207.00853"
+           y="84.342796"
+           id="text1423-2-2-2"><tspan
+             sodipodi:role="line"
+             x="207.00853"
+             y="84.342796"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan1033-8-5">Open Technology</tspan><tspan
+             sodipodi:role="line"
+             x="207.00853"
+             y="91.434319"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan1051-9-4"> Research</tspan><tspan
+             sodipodi:role="line"
+             x="207.00853"
+             y="98.525848"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan1049-7-7"> and Scouting</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter2237-7-3-3-4)"
+           x="208.02612"
+           y="40.253826"
+           id="text1423-2-2-1-4"><tspan
+             sodipodi:role="line"
+             x="208.02612"
+             y="40.253826"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan1049-7-3-4">Marketing</tspan><tspan
+             sodipodi:role="line"
+             x="208.85088"
+             y="47.345352"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan1168-3">and Support </tspan><tspan
+             sodipodi:role="line"
+             x="208.85088"
+             y="54.436874"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan1170-0">of Open Projects </tspan><tspan
+             sodipodi:role="line"
+             x="208.02612"
+             y="61.5284"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan1144-7" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter2237-7-3-3-4-8)"
+           x="207.91621"
+           y="3.9359498"
+           id="text1423-2-2-1-4-8"><tspan
+             sodipodi:role="line"
+             x="207.91621"
+             y="3.9359498"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan1144-7-1">Open Business Models</tspan><tspan
+             sodipodi:role="line"
+             x="207.91621"
+             y="11.027474"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan1352">and Cooperation</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

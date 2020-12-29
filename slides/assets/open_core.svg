@@ -21,19 +21,6 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter2233"
-       x="-0.0056913043"
-       width="1.0113826"
-       y="-0.014078885"
-       height="1.0281578">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.0778867"
-         id="feGaussianBlur2235" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
        id="filter2237"
        x="-0.0058938302"
        width="1.0117877"
@@ -70,6 +57,84 @@
          stdDeviation="0.0778867"
          id="feGaussianBlur2247" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2233-3"
+       x="-0.0056913043"
+       width="1.0113826"
+       y="-0.014078885"
+       height="1.0281578">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0778867"
+         id="feGaussianBlur2235-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2237-7"
+       x="-0.0058938302"
+       width="1.0117877"
+       y="-0.0092024282"
+       height="1.0184048">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0778867"
+         id="feGaussianBlur2239-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2241-3"
+       x="-0.0037385616"
+       width="1.007477"
+       y="-0.0037385616"
+       height="1.007477">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0778867"
+         id="feGaussianBlur2243-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2245-2"
+       x="-0.0023917926"
+       width="1.0047836"
+       y="-0.002408264"
+       height="1.0048165">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0778867"
+         id="feGaussianBlur2247-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2245-8"
+       x="-0.0023917926"
+       width="1.0047836"
+       y="-0.002408264"
+       height="1.0048165">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0778867"
+         id="feGaussianBlur2247-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2241-9"
+       x="-0.0037385616"
+       width="1.007477"
+       y="-0.0037385616"
+       height="1.007477">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0778867"
+         id="feGaussianBlur2243-2" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -78,9 +143,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="72.192605"
-     inkscape:cy="76.804935"
+     inkscape:zoom="0.7"
+     inkscape:cx="154.11278"
+     inkscape:cy="213.69588"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -108,7 +173,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -148,40 +213,88 @@
        y="88.380203"
        id="text1423"><tspan
          sodipodi:role="line"
-         x="66.301949"
+         x="67.126701"
          y="88.380203"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan1437">Open</tspan><tspan
+         id="tspan1441">Knowledge </tspan><tspan
          sodipodi:role="line"
          x="67.126701"
          y="95.471725"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan1443">Core </tspan><tspan
+         id="tspan1040">and </tspan><tspan
          sodipodi:role="line"
          x="66.301949"
          y="102.56326"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan1441">Knowledge</tspan></text>
+         id="tspan1042">Consulting</tspan></text>
+    <circle
+       id="path10-35-1"
+       cx="-45.240662"
+       cy="92.73159"
+       style="opacity:1;fill:#00e3e6;fill-opacity:1;stroke-width:0.20588234;filter:url(#filter2241-3)"
+       r="25" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter2233)"
-       x="81.87851"
-       y="42.69445"
-       id="text1423-3"><tspan
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter2237-7)"
+       x="-45.155418"
+       y="86.933403"
+       id="text1423-2"><tspan
          sodipodi:role="line"
-         x="65.456253"
-         y="48.443638"
+         x="-44.330662"
+         y="86.933403"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan1437-6" /><tspan
+         id="tspan1441-9">Knowledge </tspan><tspan
          sodipodi:role="line"
-         x="65.456253"
-         y="54.443638"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan1441-5">Proprietary </tspan><tspan
+         x="-44.330662"
+         y="94.024925"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1031">and </tspan><tspan
          sodipodi:role="line"
-         x="65.456253"
-         y="61.53516"
+         x="-45.155418"
+         y="101.11646"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1033">Consulting</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter2233-3)"
+       x="-29.578857"
+       y="41.247639"
+       id="text1423-3-3"><tspan
+         sodipodi:role="line"
+         x="-29.578857"
+         y="46.996826"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1437-6-6" /><tspan
+         sodipodi:role="line"
+         x="-27.929344"
+         y="52.996826"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan2102">Knowledge</tspan></text>
+         id="tspan1441-5-0">Proprietary </tspan><tspan
+         sodipodi:role="line"
+         x="-29.578859"
+         y="60.088352"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:6px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan2102-6">Knowledge</tspan></text>
+    <ellipse
+       id="path10-1"
+       cx="187.75804"
+       cy="80.81546"
+       style="opacity:1;fill:#00e6a7;fill-opacity:1;stroke-width:0.32070804;filter:url(#filter2245-2)"
+       rx="39.076984"
+       ry="38.809715"
+       transform="matrix(1.5053941,0,0,1.5053941,-75.048054,-57.798673)" />
+    <ellipse
+       id="path10-0"
+       cx="207.41281"
+       cy="83.461296"
+       style="opacity:1;fill:#3c53ff;fill-opacity:1;stroke-width:0.32070804;filter:url(#filter2245-8)"
+       rx="39.076984"
+       ry="38.809715" />
+    <circle
+       id="path10-35-2"
+       cx="207.62541"
+       cy="97.267303"
+       style="opacity:1;fill:#00e3e6;fill-opacity:1;stroke-width:0.20588234;filter:url(#filter2241-9)"
+       r="25" />
   </g>
 </svg>
