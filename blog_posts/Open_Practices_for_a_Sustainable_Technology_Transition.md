@@ -6,7 +6,7 @@ A transformation towards a sustainability-driven economy will challenge all of t
 
 ## Transparency and Trust
 
-A sustainable economy requires a common understanding of how our actions affect the environment. It is the question about which practices and technologies are sustainable in the long term. In practice, many options show a high degree of complexity and it is not always certain whether a solution will be economically, environmentally or socially sustainable. Can recycling of solar cells been done in an economical way? Could carbon capture and storage be an economically and environmentally viable option? Is the land used to produce biofuel crops competing with the production of food?
+A sustainable economy requires a common understanding of how our actions affect the environment. The question is which practices and technologies are sustainable in the long run. In practice, many options show a high degree of complexity and it is not always certain whether a solution will be economically, environmentally or socially sustainable. Can recycling of solar cells be done in an economical way? Could carbon capture and storage be an economically and environmentally viable option? Is the land used to produce biofuel crops competing with the production of food?
 
 Open practices can be crucial to ensure transparency and trust in finding answers. Open datasets, models and access can create a global discussion without running the risk of being covertly influenced by individual interests. This approach has already created a global [scientific consensus](https://en.wikipedia.org/wiki/Scientific_consensus_on_climate_change) of the human impact on climate change with results that can be reproduced by everyone.
 
