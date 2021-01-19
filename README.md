@@ -1,39 +1,39 @@
 # Documents of protontypes
 
-Documents such as project slides and funding applications for protontypes, as well as meeting protocols.
+Documents such as project slides and funding applications for protontypes, as well as meeting logs.
 
-## Protocols
+## Meeting logs
 
 ### 2021-01-19
 _With: @ly0n, @tjarkdoering_
 
 #### What happened?
 
-* Write protocols in the future (starting today)
+* Write meeting logs in the future (starting today)
   * Save in organization-documents
-* The future of OpenSustain.tech?
+* Brainstorm: The future of OpenSustain.tech? See also slides: [protontypes_pitch_slides.pdf, slide 5](https://github.com/protontypes/organization-documents/blob/master/slides/protontypes_pitch_slides.pdf)
   * How can we accelerate Open and Sustainable Transition with limited resources? 
-    * **Listing and Technology Scouting**
-    * Consulting
-    * Education and Training
+    * Listing and Technology Scouting
+    * **Education and Training**
     * Connecting and Networking
-    * **Branding and Trademark**
-    * **Marketing and Blog Posting**
-    * **Influencing and Public Speaking**
+    * Branding and Trademark
+    * Marketing and Blog Posting
+    * Influencing and Public Speaking
+    * Consulting
   * How can we complete the list?
   * How can we self sustain the list?
   * How to motivate people to put projects by there own on the list?
-(See also slides: .pdf)
-
 * Shirt/Hoodie for contributer? -> **Project Hoodie**
-  * What are the rules?
+  * What are the rules to get one? -> Make a PR and be contributor on the proposed project?
+  
 
 #### Next time
-Date: 2021-01-23 10:00 CET
-Place: [Jitsi](https://meet.jit.si/protontypes)
-Agenda:
-* 
+* Date: 2021-01-23 10:00 CET
+* Place: [Jitsi](https://meet.jit.si/protontypes)
+* Agenda:
+  * Continue on the Hoodie idea, what are the next steps
+  * Brainstorm on a possible course colloquium
 
 #### Links
-[How One Guy Ruined #Hacktoberfest2020 #Drama](https://joel.net/how-one-guy-ruined-hacktoberfest2020-drama)
-[Hacktoberfest 2020 Considered Harmful ](https://www.i-programmer.info/news/136-open-source/14049-hacktoberfest-2020-considered-harmful.html)
+* [How One Guy Ruined #Hacktoberfest2020 #Drama](https://joel.net/how-one-guy-ruined-hacktoberfest2020-drama)
+* [Hacktoberfest 2020 Considered Harmful ](https://www.i-programmer.info/news/136-open-source/14049-hacktoberfest-2020-considered-harmful.html)
