@@ -57,7 +57,6 @@ _With: @ly0n, @tjarkdoering_
 https://www.climategrants.earth/
 https://www.neutral.com/
 
-## Meeting logs
 
 ### 2021-01-19
 _With: @ly0n, @tjarkdoering_
