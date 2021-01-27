@@ -57,11 +57,6 @@ _With: @ly0n, @tjarkdoering_
 https://www.climategrants.earth/
 https://www.neutral.com/
 
-
-# Documents of protontypes
-
-Documents such as project slides and funding applications for protontypes, as well as meeting logs.
-
 ## Meeting logs
 
 ### 2021-01-19
