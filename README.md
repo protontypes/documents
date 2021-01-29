@@ -4,6 +4,53 @@ Documents such as project slides and funding applications for protontypes, as we
 
 ## Meeting logs
 
+---
+### 2021-01-28
+_With: @ly0n, @elaristi, Christoph (Climate Connect), @tjarkdoering_
+
+#### What happened?
+* Project OpenSustain.academy
+  * Idea Tobi: Combine RaaS with Scaphandre and use to create a project for the lectures
+  * Idea Christoph: Use meetings similar to the Climate Connect workgroups for finding professors and discuss curriculum
+  * What do the professors get from holding a lecture?
+    * New contributers to their projects
+	* Advertisement
+	* Hoodis ;)
+  * What are possilbe formats?
+    * Introduction Videos for the concepts and principles of open source
+	* Videos about sections from the list
+	* Videos about projects from the list
+  * Idea to merge videos into the Climate Connect hubs
+  * Planning will be necessary
+  * Requirement: Interface of academy should be inviting and be a gate into the world of sustainable projects
+  * Requirement: the entry level courses should be easy enough for absolute beginners
+* Idea to implement automatic tree plants for (all) contributions to the OS.t list
+  * Task: create a generic GitHub-action to allow for automatic tree planting
+  * Task: use created GitHub-action on our repo
+* Reiterated on the question if we should found a non-profit organization
+  * We can get help from Climate Connect, RaaS
+    * found a GbR?
+* Discussed, wether or not we should improve/chang the UX of the OS.t list
+  * There is fear of a too big overhead for maintenance
+  * Accessibilty might be compromised by eyecandy (developer might lose interest in exchange for non-developers)
+* Invite Climate Connect for another meeting in 6 weeks
+  * to talk about integration of OS.t list into Climate Connect
+
+#### Next time
+* Date: 2021-02-04 18:00 CET
+* Place: [Jitsi](https://meet.jit.si/protontypes)
+* Agenda:
+  * How to proceed with OpenSustain.academy?
+    * Brainstorm on ideas
+  * Found a non-profit? 
+  * Does anybody join the Climathon at the end of Febuary?
+
+#### Links
+* https://digitalhumani.com/
+* https://www.climatefounders.com/climate-hack
+* https://climateconnect.earth/
+
+---
 ### 2021-01-23
 _With: @ly0n, @tjarkdoering_
 
@@ -30,7 +77,7 @@ _With: @ly0n, @tjarkdoering_
 * https://www.climategrants.earth/
 * https://www.neutral.com/
 
-
+---
 ### 2021-01-19
 _With: @ly0n, @tjarkdoering_
 
