@@ -24,6 +24,7 @@ _With: @ly0n, @elaristi, @bpetit, @tjarkdoering_
   * Highlight where projects are missing?
 * Marry Scaphandre and Continous Reforestation
 * Write blog posts for OS.t projects?
+  * on opensource.com?
 
 #### Next time
 * Date: 2021-02-0? 18:00 CET
@@ -32,6 +33,7 @@ _With: @ly0n, @elaristi, @bpetit, @tjarkdoering_
   * Result from talk with YEA
   * Result from talkung to Shuli
 * Write blog posts for OS.t projects?
+  * Scaphandre first?
 * Non-profit?
 * Hoodie?
 
@@ -43,6 +45,7 @@ _With: @ly0n, @elaristi, @bpetit, @tjarkdoering_
   * https://landscape.lfenergy.org/
 * https://github.com/protontypes/LibreSelery/issues/183
 * https://techcrunch.com/2021/01/09/human-capital-whats-next-for-dr-timnit-gebru/?guccounter=1
+* https://www.youtube.com/watch?v=NJUJlY0Ikr0 - Shulis key note
 
 ---
 ### 2021-01-28
