@@ -5,6 +5,45 @@ Documents such as project slides and funding applications for protontypes, as we
 ## Meeting logs
 
 ---
+### 2021-02-04
+_With: @ly0n, @elaristi, @bpetit, @tjarkdoering_
+
+#### What happened?
+
+* Youth Environment Assembly (YEA)
+  * Can we do something here? -> Talk with the person
+  * Slides can be recycled for the climathon talk
+* Mentoring at MESH Hackathon?
+* Collaboration between flossbank and LibreSelery is possible
+* Meet with Shuli (LF Energy)
+* Introduction to LibreSelery - Talk by Tobi
+  * LS showcase
+* Continous Reforestation
+  * Is it an valid icentive?
+* How to contribute?
+  * Highlight where projects are missing?
+* Marry Scaphandre and Continous Reforestation
+* Write blog posts for OS.t projects?
+
+#### Next time
+* Date: 2021-02-0? 18:00 CET
+* Place: [Jitsi](https://meet.jit.si/protontypes)
+* Agenda:
+  * Result from talk with YEA
+  * Result from talkung to Shuli
+* Non-profit?
+* Hoodie?
+
+#### Links
+* https://www.youthenvironment.org/yea
+* https://www.mesh-stuttgart.de
+* https://flossbank.com/
+* https://www.lfenergy.org/
+  * https://landscape.lfenergy.org/
+* https://github.com/protontypes/LibreSelery/issues/183
+* Write blog posts for OS.t projects?
+
+---
 ### 2021-01-28
 _With: @ly0n, @elaristi, Christoph (Climate Connect), @tjarkdoering_
 
@@ -15,7 +54,7 @@ _With: @ly0n, @elaristi, Christoph (Climate Connect), @tjarkdoering_
   * What do the professors get from holding a lecture?
     * New contributers to their projects
 	* Advertisement
-	* Hoodis ;)
+	* Hoodies ;)
   * What are possilbe formats?
     * Introduction Videos for the concepts and principles of open source
 	* Videos about sections from the list
