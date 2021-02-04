@@ -31,6 +31,7 @@ _With: @ly0n, @elaristi, @bpetit, @tjarkdoering_
 * Agenda:
   * Result from talk with YEA
   * Result from talkung to Shuli
+* Write blog posts for OS.t projects?
 * Non-profit?
 * Hoodie?
 
@@ -41,7 +42,7 @@ _With: @ly0n, @elaristi, @bpetit, @tjarkdoering_
 * https://www.lfenergy.org/
   * https://landscape.lfenergy.org/
 * https://github.com/protontypes/LibreSelery/issues/183
-* Write blog posts for OS.t projects?
+* https://techcrunch.com/2021/01/09/human-capital-whats-next-for-dr-timnit-gebru/?guccounter=1
 
 ---
 ### 2021-01-28
