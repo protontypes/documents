@@ -4,6 +4,33 @@ Documents such as project slides and funding applications for protontypes, as we
 
 ## Meeting logs
 
+### 2021-02-18
+_With: @ly0n, @elaristi, @tjarkdoering_
+
+#### What happened?
+
+* continuous-reforestation
+  * Quick integration of working prototype
+  * Next steps:
+    * write a blogpost:
+    * create a logo
+    * clean up code and make it more user friendly
+    * create documentation
+    * add to marketplace
+    * integrate into OpenSustain.tech
+   
+#### Next time
+* Date: 2021-02-24 17:30 (?) CET
+* Place: [Jitsi](https://meet.jit.si/protontypes)
+* Agenda:
+  * Present current results of c-r
+  * Brainstorm on c-r
+  * Project YEA
+
+#### Links
+* https://digitalhumani.com/
+* https://github.com/protontypes/continuous-reforestation
+
 ---
 ### 2021-02-04
 _With: @ly0n, @elaristi, @bpetit, @tjarkdoering_
@@ -27,15 +54,15 @@ _With: @ly0n, @elaristi, @bpetit, @tjarkdoering_
   * on opensource.com?
 
 #### Next time
-* Date: 2021-02-0? 18:00 CET
+* Date: 2021-02-18 18:00 CET
 * Place: [Jitsi](https://meet.jit.si/protontypes)
 * Agenda:
   * Result from talk with YEA
-  * Result from talkung to Shuli
-* Write blog posts for OS.t projects?
-  * Scaphandre first?
-* Non-profit?
-* Hoodie?
+  * Result from talking to Shuli
+  * Write blog posts for OS.t projects?
+    * Scaphandre first?
+  * Non-profit?
+  * Hoodie?
 
 #### Links
 * https://www.youthenvironment.org/yea
