@@ -4,6 +4,33 @@ Documents such as project slides and funding applications for protontypes, as we
 
 ## Meeting logs
 
+### 2021-02-24
+_With: @ly0n, @elaristi, @tjarkdoering_
+
+#### What happened?
+* continuous-reforestation
+  * Tobi showed the changes from the last coding session
+  * Trigger for c-r: new contributer (10), pullrequest (1 tree)
+* We need more blog posts
+  * CR and RaaS
+  * Implemantion of CR into OpenSustain.tech (how to motivate more contributers)
+  * pros and cons of reforestation
+
+#### Next time
+* Date: 2021-03-04 17:30 CET
+* Place: [Jitsi](https://meet.jit.si/protontypes)
+* Agenda:
+  * Present current results of c-r
+  * What about non-profit?
+* Re-iterate on OpenSustain.acadamy
+
+#### Links
+* https://www.mesh-stuttgart.de/
+* https://docs.github.com/en/actions/reference/context-and-expression-syntax-for-github-actions
+* https://docs.github.com/en/actions/reference/events-that-trigger-workflows
+
+---
+
 ### 2021-02-18
 _With: @ly0n, @elaristi, @tjarkdoering_
 
@@ -12,7 +39,7 @@ _With: @ly0n, @elaristi, @tjarkdoering_
 * continuous-reforestation
   * Quick integration of working prototype
   * Next steps:
-    * write a blogpost:
+    * write a blogpost
     * create a logo
     * clean up code and make it more user friendly
     * create documentation
@@ -20,7 +47,7 @@ _With: @ly0n, @elaristi, @tjarkdoering_
     * integrate into OpenSustain.tech
    
 #### Next time
-* Date: 2021-02-24 17:30 (?) CET
+* Date: 2021-02-24 17:30 CET
 * Place: [Jitsi](https://meet.jit.si/protontypes)
 * Agenda:
   * Present current results of c-r
