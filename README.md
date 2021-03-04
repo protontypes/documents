@@ -4,6 +4,29 @@ Documents such as project slides and funding applications for protontypes, as we
 
 ## Meeting logs
 
+### 2021-03-04
+_With: @ly0n, @tjarkdoering_
+
+#### What happened?
+* continuous-reforestation
+  * Closed issue for exit codes
+  * Test integration on tjarks pet repo
+
+
+#### Next time
+* Date: 2021-03-04 17:30 CET
+* Place: [Jitsi](https://meet.jit.si/protontypes)
+* Agenda:
+  * Present current results of c-r
+  * What about non-profit?
+* Re-iterate on OpenSustain.acadamy
+* LF Energy Talk (2021-04-14)
+
+#### Links
+* https://www.mesh-stuttgart.de/
+* https://docs.github.com/en/actions/reference/context-and-expression-syntax-for-github-actions
+* https://docs.github.com/en/actions/reference/events-that-trigger-workflows
+
 ### 2021-02-24
 _With: @ly0n, @elaristi, @tjarkdoering_
 
@@ -17,7 +40,7 @@ _With: @ly0n, @elaristi, @tjarkdoering_
   * pros and cons of reforestation
 
 #### Next time
-* Date: 2021-03-04 17:30 CET
+* Date: 2021-03-04 18:30 CET
 * Place: [Jitsi](https://meet.jit.si/protontypes)
 * Agenda:
   * Present current results of c-r
