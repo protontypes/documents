@@ -12,9 +12,8 @@ _With: @ly0n, @tjarkdoering_
   * Closed issue for exit codes
   * Test integration on tjarks pet repo
 
-
 #### Next time
-* Date: 2021-03-04 17:30 CET
+* Date: 2021-03-11 18:30 CET
 * Place: [Jitsi](https://meet.jit.si/protontypes)
 * Agenda:
   * Present current results of c-r
@@ -23,9 +22,7 @@ _With: @ly0n, @tjarkdoering_
 * LF Energy Talk (2021-04-14)
 
 #### Links
-* https://www.mesh-stuttgart.de/
-* https://docs.github.com/en/actions/reference/context-and-expression-syntax-for-github-actions
-* https://docs.github.com/en/actions/reference/events-that-trigger-workflows
+* https://www.future-hub.eu/
 
 ### 2021-02-24
 _With: @ly0n, @elaristi, @tjarkdoering_
