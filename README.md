@@ -4,13 +4,42 @@ Documents such as project slides and funding applications for protontypes, as we
 
 ## Meeting logs
 
+### 2021-03-11
+_With: @ly0n, @elaristi, @tjarkdoering_
+
+#### What happened?
+* c-r
+  * blog post
+  * ToDo: disclaimer
+  * test the badge
+* LF Energy
+  * Topic: Talk about the OpenSustain.tech world
+  * Who can help with the documentation
+    * ToDo: Prepare slides
+* Social Media activity rises :)
+* Talk about the WFP Acceleration Program
+
+#### Next time
+* Date: 2021-03-18 18:30??? CET
+* Place: [Jitsi](https://meet.jit.si/protontypes)
+* Agenda:
+  * How far is the blog post?
+  * Does the badge work?
+  * Work on documentation?
+  * Have a crazy brainstorming session (for more tool ideas)!
+
+#### Links
+* https://airtable.com/shrwksvVDIOkrTMsH
+* https://www.patch.io/
+
+---
 ### 2021-03-04
 _With: @ly0n, @tjarkdoering_
 
 #### What happened?
 * continuous-reforestation
   * Closed issue for exit codes
-  * Test integration on tjarks pet repo
+  * Test integration on Tjarks pet repo
 
 #### Next time
 * Date: 2021-03-11 18:30 CET
@@ -24,6 +53,7 @@ _With: @ly0n, @tjarkdoering_
 #### Links
 * https://www.future-hub.eu/
 
+---
 ### 2021-02-24
 _With: @ly0n, @elaristi, @tjarkdoering_
 
