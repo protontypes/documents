@@ -4,6 +4,26 @@ Documents such as project slides and funding applications for protontypes, as we
 
 ## Meeting logs
 
+### 2021-03-18
+_With: @ly0n, @tjarkdoering_
+
+#### What happened?
+* Our social media rocks
+* We did a super short meeting, only small talk today
+
+#### Next time
+* Date: 2021-03-25 18:30 CET
+* Place: [Jitsi](https://meet.jit.si/protontypes)
+* Agenda:
+  * How far is the blog post?
+  * Does the badge work?
+  * Work on documentation?
+  * Have a crazy brainstorming session (for more tool ideas)!
+
+#### Links
+* https://www.gitstarhistory.com/#protontypes/open-sustainable-technology
+
+---
 ### 2021-03-11
 _With: @ly0n, @elaristi, @tjarkdoering_
 
@@ -20,7 +40,7 @@ _With: @ly0n, @elaristi, @tjarkdoering_
 * Talk about the WFP Acceleration Program
 
 #### Next time
-* Date: 2021-03-18 18:30??? CET
+* Date: 2021-03-18 18:30 CET
 * Place: [Jitsi](https://meet.jit.si/protontypes)
 * Agenda:
   * How far is the blog post?
