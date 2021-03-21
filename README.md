@@ -1,6 +1,6 @@
-# Documents of protontypes
+# Community docs
 
-Documents such as project slides and funding applications for protontypes, as well as meeting logs.
+Documents of the protontypes community
 
 ## Meeting logs
 
