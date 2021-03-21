@@ -1,6 +1,6 @@
-# Community docs
+# Community Documentation
 
-Documents of the protontypes community
+Documents of the protontypes community like logs, slides, applications, ideas, roadmaps, ...
 
 ## Meeting logs
 
