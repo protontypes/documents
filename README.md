@@ -4,6 +4,27 @@ Documents of the protontypes community like logs, slides, applications, ideas, r
 
 ## Meeting logs
 
+### 2021-03-25
+_With: @ly0n, @tjarkdoering, @cjscheller, @JonathanVilliard_
+
+#### What happened?
+* Minor improvements on the blog post
+* Discussion on the next step with continuous reforestation: the carbon footprint compensator
+
+#### Next time
+* Date: 2021-04-01 18:30 CET
+* Place: [Jitsi](https://meet.jit.si/protontypes)
+* Agenda:
+  * OpenClimatCall - What happened?
+
+#### Links
+* https://protontypes.eu/blog/2021/03/25/continuous-reforestation/
+* https://www.thegreenwebfoundation.org/
+  * https://github.com/thegreenwebfoundation/green-cost-explorer
+* https://www.websitecarbon.com/
+* https://www.globalforestwatch.org/map/
+
+---
 ### 2021-03-18
 _With: @ly0n, @tjarkdoering_
 
