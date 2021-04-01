@@ -4,6 +4,32 @@ Documents of the protontypes community like logs, slides, applications, ideas, r
 
 ## Meeting logs
 
+### 2021-04-01
+_With: @ly0n, @tjarkdoering, @elaristi_
+
+#### What happened?
+* Climate Cell recap
+  * Blogpostidea: Patents are not sustainable
+* What are our next projects?
+  * Open Carbon Compensation
+    * Could this be monetized after a fashion?
+    * Can this work for small, non-technical buisnesses?
+    * Homework: look into how this could be done to build MVP
+    * Ask electricity map for a (free) access for buiding prototype
+  * OpenSustain.tech
+    * Statistics: first, move it to some kind of database
+
+#### Next time
+* Date: 2021-04-01 18:30 CET
+* Place: [Jitsi](https://meet.jit.si/protontypes)
+* Agenda:
+  * Work on the MVP
+
+#### Links
+* https://www.appropedia.org/OpenClimate
+* https://plana.earth/offsetting
+
+---
 ### 2021-03-25
 _With: @ly0n, @tjarkdoering, @cjscheller, @JonathanVilliard_
 
