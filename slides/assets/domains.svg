@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,7 +12,7 @@
    viewBox="0 0 118.48422 112.2138"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
    sodipodi:docname="domains.svg">
   <defs
      id="defs2" />
@@ -25,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="200.71471"
-     inkscape:cy="155.81359"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="116.31082"
+     inkscape:cy="125.24882"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,7 +38,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid881"
@@ -72,25 +71,30 @@
        style="opacity:1;fill:#00e6a7;fill-opacity:1;stroke-width:0.26458332" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.69999999;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
-       x="65.868851"
-       y="75.408112"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.7;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="65.72657"
+       y="71.603798"
        id="text885"><tspan
          sodipodi:role="line"
-         x="66.601967"
-         y="75.408112"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555556px;line-height:0.69999999;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;stroke-width:0.26458332;fill:#ffffff;fill-opacity:1"
-         id="tspan922">Open </tspan><tspan
+         x="65.72657"
+         y="71.603798"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.7;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan855">Transparency </tspan><tspan
          sodipodi:role="line"
-         x="66.601967"
-         y="82.816444"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555556px;line-height:0.69999999;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;stroke-width:0.26458332;fill:#ffffff;fill-opacity:1"
-         id="tspan828">Knowledge </tspan><tspan
+         x="65.72657"
+         y="79.012108"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.7;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan32">and Trust </tspan><tspan
          sodipodi:role="line"
-         x="65.868851"
-         y="90.224777"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555556px;line-height:0.69999999;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;stroke-width:0.26458332;fill:#ffffff;fill-opacity:1"
-         id="tspan855">Bases</tspan></text>
+         x="65.72657"
+         y="86.420418"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.7;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan81">by </tspan><tspan
+         sodipodi:role="line"
+         x="65.72657"
+         y="93.828728"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.7;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan70">Openness</tspan></text>
     <circle
        id="path10-3"
        cx="120.37411"
@@ -99,25 +103,40 @@
        style="opacity:1;fill:#3c53ff;fill-opacity:1;stroke-width:0.26458332" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.69999999;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
-       x="120.3245"
-       y="75.513588"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.7;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="122.44188"
+       y="59.204521"
        id="text885-5"><tspan
          sodipodi:role="line"
-         x="121.05762"
-         y="75.513588"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555556px;line-height:0.69999999;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;stroke-width:0.26458332;fill:#ffffff;fill-opacity:1"
-         id="tspan851-6">Open </tspan><tspan
+         x="122.44188"
+         y="59.204521"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.7;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan855-2"></tspan><tspan
          sodipodi:role="line"
-         x="120.3245"
-         y="82.921921"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555556px;line-height:0.69999999;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;stroke-width:0.26458332;fill:#ffffff;fill-opacity:1"
-         id="tspan830">Funding</tspan><tspan
+         x="122.44188"
+         y="66.612831"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.7;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan64"></tspan><tspan
          sodipodi:role="line"
-         x="120.3245"
-         y="90.330254"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555556px;line-height:0.69999999;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;stroke-width:0.26458332;fill:#ffffff;fill-opacity:1"
-         id="tspan855-2">Distribution</tspan></text>
+         x="122.44188"
+         y="74.021141"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.7;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan66">Open </tspan><tspan
+         sodipodi:role="line"
+         x="122.44188"
+         y="81.429451"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.7;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan68">Knowledge </tspan><tspan
+         sodipodi:role="line"
+         x="122.44188"
+         y="88.837761"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.7;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan39">Evolution </tspan><tspan
+         sodipodi:role="line"
+         x="122.44188"
+         y="96.246071"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.7;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan41" /></text>
     <circle
        id="path10-3-1"
        cx="93.738892"
@@ -126,25 +145,25 @@
        style="opacity:1;fill:#00e3e6;fill-opacity:1;stroke-width:0.26458332" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.69999999;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
-       x="93.591438"
-       y="123.36596"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.7;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="93.545441"
+       y="123.52978"
        id="text885-5-2"><tspan
          sodipodi:role="line"
-         x="94.324554"
-         y="123.36596"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555556px;line-height:0.69999999;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;stroke-width:0.26458332;fill:#ffffff;fill-opacity:1"
-         id="tspan851-6-7">Open </tspan><tspan
+         x="93.545441"
+         y="123.52978"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.7;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan48">Open </tspan><tspan
          sodipodi:role="line"
-         x="93.591438"
-         y="130.77429"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555556px;line-height:0.69999999;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;stroke-width:0.26458332;fill:#ffffff;fill-opacity:1"
-         id="tspan832">Business</tspan><tspan
+         x="93.545441"
+         y="130.93808"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.7;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan77">Business </tspan><tspan
          sodipodi:role="line"
-         x="93.591438"
-         y="138.18263"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555556px;line-height:0.69999999;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;stroke-width:0.26458332;fill:#ffffff;fill-opacity:1"
-         id="tspan855-2-0">Models</tspan></text>
+         x="93.545441"
+         y="138.34639"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.7;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan79">Models</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot834"
@@ -156,5 +175,6 @@
            height="637.14288"
            x="-148.57143"
            y="171.09108" /></flowRegion><flowPara
-         id="flowPara840" /></flowRoot>  </g>
+         id="flowPara840" /></flowRoot>
+  </g>
 </svg>
