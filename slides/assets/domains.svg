@@ -31,7 +31,7 @@
      showgrid="false"
      showguides="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1136"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -67,8 +67,8 @@
        id="path10"
        cx="66.145836"
        cy="80.797615"
-       r="32.127975"
-       style="opacity:1;fill:#00e6a7;fill-opacity:1;stroke-width:0.26458332" />
+       style="opacity:1;fill:#00e6a7;fill-opacity:1;stroke-width:0.264583"
+       r="32.127975" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.7;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -89,12 +89,12 @@
          x="65.72657"
          y="86.420418"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.7;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         id="tspan81">by </tspan><tspan
+         id="tspan70">by</tspan><tspan
          sodipodi:role="line"
          x="65.72657"
          y="93.828728"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.7;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         id="tspan70">Openness</tspan></text>
+         id="tspan85">Openness</tspan></text>
     <circle
        id="path10-3"
        cx="120.37411"
@@ -111,17 +111,17 @@
          x="122.44188"
          y="59.204521"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.7;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         id="tspan855-2"></tspan><tspan
+         id="tspan855-2" /><tspan
          sodipodi:role="line"
          x="122.44188"
          y="66.612831"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.7;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         id="tspan64"></tspan><tspan
+         id="tspan66"></tspan><tspan
          sodipodi:role="line"
          x="122.44188"
          y="74.021141"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.7;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         id="tspan66">Open </tspan><tspan
+         id="tspan89">Open </tspan><tspan
          sodipodi:role="line"
          x="122.44188"
          y="81.429451"
