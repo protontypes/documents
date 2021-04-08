@@ -4,6 +4,30 @@ Documents of the protontypes community like logs, slides, applications, ideas, r
 
 ## Meeting logs
 
+### 2021-04-08
+_With: @ly0n, @tjarkdoering, @elaristi_
+
+#### What happened?
+* Art Tech Nature Culture (ATNC) wants to collaborate
+  * Art installation with OS.t data?
+  * Attend the next call
+* Added contributers images to OS.t
+* Add member descriptions to protontypes site (Tjark will try his luck doing that)
+  * Hugo, change the template (docsy)
+* LF Energy Slides are done. Some review maybe?
+* Make Slides for OCO (Tobias)
+* Make Slides for OS.t data (Tjark)
+
+#### Next time
+* Date: 2021-04-15 18:30 CET
+* Place: [Jitsi](https://meet.jit.si/protontypes)
+* Agenda:
+  * What happened LF Energy
+
+#### Links
+* https://atnc.persona.co/
+
+---
 ### 2021-04-01
 _With: @ly0n, @tjarkdoering, @elaristi_
 
@@ -20,7 +44,7 @@ _With: @ly0n, @tjarkdoering, @elaristi_
     * Statistics: first, move it to some kind of database
 
 #### Next time
-* Date: 2021-04-01 18:30 CET
+* Date: 2021-04-08 18:30 CET
 * Place: [Jitsi](https://meet.jit.si/protontypes)
 * Agenda:
   * Work on the MVP
