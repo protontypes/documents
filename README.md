@@ -4,6 +4,43 @@ Documents of the protontypes community like logs, slides, applications, ideas, r
 
 ## Meeting logs
 
+### 2021-04-15
+_With: @ly0n, @tjarkdoering, @mroswell_
+
+#### What happened?
+* Margie joins the talk and presents her thoughts about Datasetts,
+  * Ask people to add tags to their repositories
+  * Discussion about how this could look in the future
+* Discussion on Sustainability Data:
+  * Add tags onto the awesome list format? :tag1:tag2:...
+    * This might overload the list with information
+* Open Carbon Offset:
+  * Have more methods than planting trees for compensation?
+* Idea for OpenSustain.Academy
+  * Have a zoom call where a random volunteer tries to make a project run and the developer helps and has feedback to get his README in order
+* Art talk
+  * Go through the list and create Logos for the projects
+  * Digital Wallpaper that reacts to commits on the project
+  * All contributers get a piece of original art
+* Margies input on conferences
+  * Hop in kind of meetings?
+* How many trees? PR bounty
+  * Reduce to 10 in some time, after evaluating the incoming stream of PRs?
+
+#### Next time
+* Date: 2021-04-22 18:30 CET
+* Place: [Jitsi](https://meet.jit.si/protontypes)
+* Agenda:
+  * What happened on the coding sessions?
+
+#### Links
+* https://github.com/simonw/datasette
+  * https://ripgrep.datasette.io/-/ripgrep?pattern=pytest%24&glob=
+  * https://fivethirtyeight.datasettes.com/
+* https://dogsheep.github.io/
+* https://github.com/PyGithub/PyGithub
+
+---
 ### 2021-04-08
 _With: @ly0n, @tjarkdoering, @elaristi_
 
