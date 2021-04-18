@@ -1,0 +1,4742 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="194.36568mm"
+   height="163.2952mm"
+   viewBox="0 0 194.36568 163.2952"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="cash_flow.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8326"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         transform="scale(0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path8324"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8068"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         transform="scale(0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path8066"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6771"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         transform="scale(0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path6769"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6619"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         transform="scale(0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path6617"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5726"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5587"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-6)"
+       d="M 55.151348,113.75334 C 49.223188,99.717157 49.223188,99.717157 49.223188,99.717157"
+       id="path5582-3"
+       inkscape:connector-curvature="0" />
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-6"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5726-7"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-2)"
+       d="M 55.151348,113.75334 C 49.223188,99.717157 49.223188,99.717157 49.223188,99.717157"
+       id="path5582-6"
+       inkscape:connector-curvature="0" />
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-2"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5726-9"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient7310">
+      <stop
+         id="stop7308"
+         offset="0"
+         style="stop-color:#af0000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient7292">
+      <stop
+         id="stop7290"
+         offset="0"
+         style="stop-color:#df0000;stop-opacity:1;" />
+    </linearGradient>
+    <clipPath
+       id="clipPath8479"
+       clipPathUnits="userSpaceOnUse">
+      <use
+         transform="rotate(180,5062.8529,201.33468)"
+         height="100%"
+         width="100%"
+         id="use8481"
+         xlink:href="#g8475"
+         y="0"
+         x="0" />
+    </clipPath>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-9)"
+       d="M 55.151348,113.75334 C 49.223188,99.717157 49.223188,99.717157 49.223188,99.717157"
+       id="path5582-0"
+       inkscape:connector-curvature="0" />
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-9"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5726-3"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-8)"
+       d="M 52.183463,113.49119 C 51.409383,98.274142 51.409383,98.274142 51.409383,98.274142"
+       id="path5582-61"
+       inkscape:connector-curvature="0" />
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-8"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5726-79"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="197.59134"
+     inkscape:cy="256.16755"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1126"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-17.20682,-37.555107)">
+    <g
+       transform="matrix(0.07306313,-9.0733956e-4,6.354375e-4,0.07598252,24.006622,200.42831)"
+       class="graph"
+       id="graph1">
+      <title
+         id="title2631">G</title>
+      <polygon
+         id="polygon2633"
+         points="-4,5 -4,-1108 1818.36,-1108 1818.36,5 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <g
+         class="node"
+         id="node1">
+        <title
+           id="title2635">doctest</title>
+        <ellipse
+           id="ellipse2637"
+           ry="18"
+           rx="30.163799"
+           cy="-792"
+           cx="1237.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text2639"
+           font-size="10.00"
+           y="-789.5"
+           x="1237.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">doctest</text>
+      </g>
+      <g
+         class="node"
+         id="node3">
+        <title
+           id="title2642">heapq</title>
+        <ellipse
+           id="ellipse2644"
+           ry="18"
+           rx="27"
+           cy="-714"
+           cx="1340.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text2646"
+           font-size="10.00"
+           y="-711.5"
+           x="1340.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">heapq</text>
+      </g>
+      <g
+         class="edge"
+         id="edge2">
+        <title
+           id="title2649">doctest-&gt;heapq</title>
+        <path
+           id="path2651"
+           d="m 1256.25,-777.694 c 16.17,12.246 39.62,30.01 57.66,43.668"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2653"
+           points="1322.27,-727.693 1312.19,-730.939 1316.41,-736.52 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node14">
+        <title
+           id="title2656">pickle</title>
+        <ellipse
+           id="ellipse2658"
+           ry="18"
+           rx="27"
+           cy="-714"
+           cx="1000.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text2660"
+           font-size="10.00"
+           y="-711.5"
+           x="1000.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">pickle</text>
+      </g>
+      <g
+         class="edge"
+         id="edge258">
+        <title
+           id="title2663">doctest-&gt;pickle</title>
+        <path
+           id="path2665"
+           d="m 1217.79,-778.204 c -6.02,3.751 -12.8,7.516 -19.43,10.204 -68.36,27.711 -92.5,11.323 -162,36 -1.88,0.666 -3.79,1.407 -5.69,2.198"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2667"
+           points="1021.3,-725.547 1028.96,-732.868 1031.85,-726.494 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node30">
+        <title
+           id="title2670">collections</title>
+        <ellipse
+           id="ellipse2672"
+           ry="18"
+           rx="38.782001"
+           cy="-642"
+           cx="1328.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text2674"
+           font-size="10.00"
+           y="-639.5"
+           x="1328.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">collections</text>
+      </g>
+      <g
+         class="edge"
+         id="edge34">
+        <title
+           id="title2677">doctest-&gt;collections</title>
+        <path
+           id="path2679"
+           d="m 1252.94,-766.304 c 16.61,27.367 42.75,70.46 59.48,98.042"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2681"
+           points="1247.62,-775.085 1255.8,-768.35 1249.81,-764.72 "
+           style="fill:#000000;stroke:#000000" />
+        <polygon
+           id="polygon2683"
+           points="1317.71,-659.548 1309.53,-666.282 1315.52,-669.913 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node98">
+        <title
+           id="title2686">difflib</title>
+        <ellipse
+           id="ellipse2688"
+           ry="18"
+           rx="27"
+           cy="-570"
+           cx="1521.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text2690"
+           font-size="10.00"
+           y="-567.5"
+           x="1521.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">difflib</text>
+      </g>
+      <g
+         class="edge"
+         id="edge332">
+        <title
+           id="title2693">doctest-&gt;difflib</title>
+        <path
+           id="path2695"
+           d="m 1274.19,-780.712 c 29.29,10.026 70.48,26.532 102.17,48.712 55.06,38.548 103.68,101.86 128.18,136.828"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2697"
+           points="1264.36,-783.987 1274.95,-784.147 1272.74,-777.506 "
+           style="fill:#000000;stroke:#000000" />
+        <polygon
+           id="polygon2699"
+           points="1510.52,-586.514 1501.95,-592.756 1507.72,-596.732 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge28">
+        <title
+           id="title2702">heapq-&gt;collections</title>
+        <path
+           id="path2704"
+           d="m 1337.33,-695.831 c -1.29,7.7 -2.81,16.857 -4.24,25.414"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2706"
+           points="1331.42,-660.413 1329.62,-670.853 1336.52,-669.702 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge328">
+        <title
+           id="title2709">heapq-&gt;difflib</title>
+        <path
+           id="path2711"
+           d="m 1357.99,-700.301 c 13.97,10.878 33.96,26.501 51.37,40.301 29.93,23.743 64.15,51.297 86.8,69.6"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2713"
+           points="1503.95,-584.1 1493.97,-587.665 1498.37,-593.109 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node4">
+        <title
+           id="title2716">hashlib</title>
+        <ellipse
+           id="ellipse2718"
+           ry="18"
+           rx="28.9326"
+           cy="-1014"
+           cx="1180.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text2720"
+           font-size="10.00"
+           y="-1011.5"
+           x="1180.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">hashlib</text>
+      </g>
+      <g
+         class="node"
+         id="node6">
+        <title
+           id="title2723">random</title>
+        <ellipse
+           id="ellipse2725"
+           ry="18"
+           rx="30.163799"
+           cy="-942"
+           cx="1181.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text2727"
+           font-size="10.00"
+           y="-939.5"
+           x="1181.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">random</text>
+      </g>
+      <g
+         class="edge"
+         id="edge4">
+        <title
+           id="title2730">hashlib-&gt;random</title>
+        <path
+           id="path2732"
+           d="m 1180.61,-995.831 c 0.1,7.7 0.23,16.857 0.35,25.414"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2734"
+           points="1181.1,-960.413 1177.46,-970.364 1184.46,-970.461 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node12">
+        <title
+           id="title2737">threading</title>
+        <ellipse
+           id="ellipse2739"
+           ry="18"
+           rx="33.973301"
+           cy="-570"
+           cx="1442.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text2741"
+           font-size="10.00"
+           y="-567.5"
+           x="1442.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">threading</text>
+      </g>
+      <g
+         class="edge"
+         id="edge64">
+        <title
+           id="title2744">random-&gt;threading</title>
+        <path
+           id="path2746"
+           d="m 1202.41,-928.832 c 16.6,10.585 40.17,26.073 59.95,40.832 12.1,9.036 206.15,159.162 209,174"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path2748"
+           d="m 1471.36,-714 c 3.89,40.925 -8.62,87.408 -18.42,116.222"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2750"
+           points="1449.49,-588.005 1449.52,-598.6 1456.12,-596.268 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node19">
+        <title
+           id="title2753">tempfile</title>
+        <ellipse
+           id="ellipse2755"
+           ry="18"
+           rx="30.7794"
+           cy="-870"
+           cx="1150.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text2757"
+           font-size="10.00"
+           y="-867.5"
+           x="1150.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">tempfile</text>
+      </g>
+      <g
+         class="edge"
+         id="edge16">
+        <title
+           id="title2760">random-&gt;tempfile</title>
+        <path
+           id="path2762"
+           d="m 1173.85,-924.571 c -3.59,8.34 -7.97,18.511 -11.97,27.802"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2764"
+           points="1157.9,-887.518 1158.64,-898.087 1165.07,-895.319 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node7">
+        <title
+           id="title2767">warnings</title>
+        <ellipse
+           id="ellipse2769"
+           ry="18"
+           rx="33.8573"
+           cy="-1014"
+           cx="839.35498"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text2771"
+           font-size="10.00"
+           y="-1011.5"
+           x="839.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">warnings</text>
+      </g>
+      <g
+         class="edge"
+         id="edge170">
+        <title
+           id="title2774">warnings-&gt;doctest</title>
+        <path
+           id="path2776"
+           d="m 873.278,-1011.31 c 40.966,4.69 110.421,17.371 159.082,51.31 48.56,33.874 31.47,71.38 78,108 33.2,26.136 50.32,16.863 88,36 3.31,1.683 6.71,3.552 10.06,5.483"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2778"
+           points="1217.07,-805.348 1206.69,-807.475 1210.28,-813.484 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge6">
+        <title
+           id="title2781">warnings-&gt;random</title>
+        <path
+           id="path2783"
+           d="m 873.205,-1010.82 c 56.716,5.94 174.075,20.953 269.155,50.82 2.13,0.672 4.31,1.434 6.48,2.256"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2785"
+           points="1158.23,-953.85 1147.65,-954.447 1150.33,-960.913 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge70">
+        <title
+           id="title2788">warnings-&gt;threading</title>
+        <path
+           id="path2790"
+           d="m 873.044,-1011.09 c 116.13,10.1 493.226,43.405 503.316,51.09 93.21,71.045 61.56,133.668 95,246"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node27">
+        <title
+           id="title2793">pprint</title>
+        <ellipse
+           id="ellipse2795"
+           ry="18"
+           rx="27"
+           cy="-570"
+           cx="987.35498"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text2797"
+           font-size="10.00"
+           y="-567.5"
+           x="987.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">pprint</text>
+      </g>
+      <g
+         class="edge"
+         id="edge26">
+        <title
+           id="title2800">warnings-&gt;pprint</title>
+        <path
+           id="path2802"
+           d="m 777.355,-792 c 26.922,49.195 62.89,31.184 111,60 0.778,0.466 108.57,71.201 109,72 10.365,19.275 6.505,44.203 0.817,62.934"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2804"
+           points="994.906,-587.372 994.782,-597.966 1001.42,-595.731 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node48">
+        <title
+           id="title2807">ntpath</title>
+        <ellipse
+           id="ellipse2809"
+           ry="18"
+           rx="27.0858"
+           cy="-642"
+           cx="294.35501"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text2811"
+           font-size="10.00"
+           y="-639.5"
+           x="294.35501"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">ntpath</text>
+      </g>
+      <g
+         class="edge"
+         id="edge52">
+        <title
+           id="title2814">warnings-&gt;ntpath</title>
+        <path
+           id="path2816"
+           d="m 810.324,-1004.39 c -88.522,29.802 -352.663,122.619 -412.969,188.39 -39.403,42.974 -20.978,71.277 -53,120 -7.456,11.344 -17.335,22.574 -26.343,31.83"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2818"
+           points="310.724,-656.9 315.332,-666.44 320.275,-661.484 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node94">
+        <title
+           id="title2821">unittest_case</title>
+        <ellipse
+           id="ellipse2823"
+           ry="18"
+           rx="44.937901"
+           cy="-336"
+           cx="1520.36"
+           style="fill:#5623b3;stroke:#000000" />
+        <text
+           id="text2825"
+           font-size="10.00"
+           y="-333.5"
+           x="1520.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">unittest.case</text>
+      </g>
+      <g
+         class="edge"
+         id="edge98">
+        <title
+           id="title2828">warnings-&gt;unittest_case</title>
+        <path
+           id="path2830"
+           d="m 1621.36,-942 c 150.18,90.962 142.06,233.227 63,390 -21.1,41.834 -40.51,42.62 -77,72 -36.59,29.454 -104.67,16.479 -87,60"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node132">
+        <title
+           id="title2833">logging</title>
+        <ellipse
+           id="ellipse2835"
+           ry="18"
+           rx="28.9326"
+           cy="-498"
+           cx="1497.36"
+           style="fill:#2332b3;stroke:#000000" />
+        <text
+           id="text2837"
+           font-size="10.00"
+           y="-495.5"
+           x="1497.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">logging</text>
+      </g>
+      <g
+         class="edge"
+         id="edge158">
+        <title
+           id="title2840">warnings-&gt;logging</title>
+        <path
+           id="path2842"
+           d="m 873.2,-1011.32 c 148.08,11.757 732.31,58.748 748.16,69.32"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path2844"
+           d="m 1621.36,-942 c 20.92,13.967 -13.18,29.131 -17,54 -2.44,15.814 -7.59,21.912 0,36 22.96,42.654 100.17,12.432 91,60"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path2846"
+           d="m 1695.36,-792 c -10.43,47.309 -67.21,17.8 -91,60 -39.32,69.74 35.34,112.052 -7,180 -14,22.464 -40.79,36.213 -63.12,44.212"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2848"
+           points="1524.68,-504.605 1533.06,-511.084 1535.27,-504.442 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node165">
+        <title
+           id="title2851">argparse</title>
+        <ellipse
+           id="ellipse2853"
+           ry="18"
+           rx="33.241699"
+           cy="-498"
+           cx="419.35501"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text2855"
+           font-size="10.00"
+           y="-495.5"
+           x="419.35501"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">argparse</text>
+      </g>
+      <g
+         class="edge"
+         id="edge320">
+        <title
+           id="title2858">warnings-&gt;argparse</title>
+        <path
+           id="path2860"
+           d="m 369.355,-570 c -0.348,19.079 11.64,36.742 23.964,49.798"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2862"
+           points="400.523,-513.071 390.953,-517.618 395.878,-522.593 "
+           style="fill:#000000;stroke:#000000" />
+        <path
+           id="path2864"
+           d="m 811.32,-1003.71 c -76.091,29.43 -287.682,121.656 -390.965,271.71 -42.798,62.178 -49.622,86.529 -51,162"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node174">
+        <title
+           id="title2867">posixpath</title>
+        <ellipse
+           id="ellipse2869"
+           ry="18"
+           rx="35.822102"
+           cy="-642"
+           cx="919.35498"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text2871"
+           font-size="10.00"
+           y="-639.5"
+           x="919.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">posixpath</text>
+      </g>
+      <g
+         class="edge"
+         id="edge222">
+        <title
+           id="title2874">warnings-&gt;posixpath</title>
+        <path
+           id="path2876"
+           d="m 777.355,-792 c 14.807,40.896 -8.222,62.078 19,96 2.927,3.647 50.484,23.928 85.588,38.563"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2878"
+           points="891.467,-653.477 880.89,-654.084 883.577,-660.548 "
+           style="fill:#000000;stroke:#000000" />
+        <path
+           id="path2880"
+           d="m 777.355,-942 c -37.547,55.088 -24.06,87.826 0,150"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node210">
+        <title
+           id="title2883">contextlib</title>
+        <ellipse
+           id="ellipse2885"
+           ry="18"
+           rx="35.822102"
+           cy="-642"
+           cx="637.35498"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text2887"
+           font-size="10.00"
+           y="-639.5"
+           x="637.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">contextlib</text>
+      </g>
+      <g
+         class="edge"
+         id="edge282">
+        <title
+           id="title2890">warnings-&gt;contextlib</title>
+        <path
+           id="path2892"
+           d="m 824.247,-997.592 c -12.925,14.299 -31.781,35.791 -46.892,55.592"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path2894"
+           d="m 777.355,-942 c -4.564,5.98 -168.479,202.912 -171,210 -5.361,15.075 -4.122,20.54 0,36 2.646,9.923 7.597,19.917 12.778,28.564"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2896"
+           points="624.529,-658.973 616.202,-665.523 622.104,-669.286 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node9">
+        <title
+           id="title2899">traceback</title>
+        <ellipse
+           id="ellipse2901"
+           ry="18"
+           rx="35.822102"
+           cy="-1014"
+           cx="1395.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text2903"
+           font-size="10.00"
+           y="-1011.5"
+           x="1395.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">traceback</text>
+      </g>
+      <g
+         class="edge"
+         id="edge174">
+        <title
+           id="title2906">traceback-&gt;doctest</title>
+        <path
+           id="path2908"
+           d="m 1393.32,-995.907 c -2.49,18.541 -7.59,47.966 -16.96,71.907 -13.59,34.707 -16.92,45.379 -43,72 -18.17,18.541 -43.15,33.922 -63.07,44.467"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2910"
+           points="1261.25,-802.892 1268.55,-810.573 1271.74,-804.346 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node11">
+        <title
+           id="title2913">subprocess</title>
+        <ellipse
+           id="ellipse2915"
+           ry="18"
+           rx="41.244301"
+           cy="-498"
+           cx="1235.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text2917"
+           font-size="10.00"
+           y="-495.5"
+           x="1235.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">subprocess</text>
+      </g>
+      <g
+         class="edge"
+         id="edge8">
+        <title
+           id="title2920">traceback-&gt;subprocess</title>
+        <path
+           id="path2922"
+           d="m 1431.36,-1011.79 c 74.26,5.5 239.54,22.891 264,69.79"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path2924"
+           d="m 1695.36,-942 c 21.74,41.7 -63.61,15.775 -91,54 -50.44,70.376 -34.61,105.43 -33,192 1.18,64.014 45.57,95.306 4,144 -4.71,5.511 -197.5,33.674 -290.63,46.997"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2926"
+           points="1274.69,-503.569 1284.09,-508.448 1285.08,-501.518 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge68">
+        <title
+           id="title2929">traceback-&gt;threading</title>
+        <path
+           id="path2931"
+           d="m 1424.59,-1003.34 c 19.94,8.723 45.42,22.962 60.77,43.34 24.9,33.069 24,48.602 24,90 0,0 0,0 0,156 0,45.283 -27.58,91.728 -47.35,119.209"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2933"
+           points="1455.91,-586.561 1459.06,-596.679 1464.68,-592.511 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node20">
+        <title
+           id="title2936">dummy_thread</title>
+        <ellipse
+           id="ellipse2938"
+           ry="18"
+           rx="49.862499"
+           cy="-942"
+           cx="1317.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text2940"
+           font-size="10.00"
+           y="-939.5"
+           x="1317.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">dummy_thread</text>
+      </g>
+      <g
+         class="edge"
+         id="edge206">
+        <title
+           id="title2943">traceback-&gt;dummy_thread</title>
+        <path
+           id="path2945"
+           d="m 1378.04,-998.021 c -10.21,9.425 -23.33,21.535 -34.75,32.083"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2947"
+           points="1335.7,-958.938 1340.68,-968.292 1345.43,-963.149 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node44">
+        <title
+           id="title2950">unittest_loader</title>
+        <ellipse
+           id="ellipse2952"
+           ry="24.041599"
+           rx="36.7696"
+           cy="-168"
+           cx="1650.36"
+           style="fill:#238ab3;stroke:#000000" />
+        <text
+           id="text2954"
+           font-size="10.00"
+           y="-172"
+           x="1650.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">unittest.</text>
+        <text
+           id="text2956"
+           font-size="10.00"
+           y="-159"
+           x="1650.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">loader</text>
+      </g>
+      <g
+         class="edge"
+         id="edge142">
+        <title
+           id="title2959">traceback-&gt;unittest_loader</title>
+        <path
+           id="path2961"
+           d="m 1785.36,-498 c -23.82,80.764 -3.14,108.478 -36,186 -18.44,43.472 -51.05,87.31 -73.79,115.001"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2963"
+           points="1669.15,-189.287 1672.86,-199.211 1678.24,-194.732 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node87">
+        <title
+           id="title2966">atexit</title>
+        <ellipse
+           id="ellipse2968"
+           ry="18"
+           rx="27"
+           cy="-870"
+           cx="1640.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text2970"
+           font-size="10.00"
+           y="-867.5"
+           x="1640.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">atexit</text>
+      </g>
+      <g
+         class="edge"
+         id="edge90">
+        <title
+           id="title2973">traceback-&gt;atexit</title>
+        <path
+           id="path2975"
+           d="m 1695.36,-942 c 9.99,20.168 -8.37,40.284 -26.51,54.105"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2977"
+           points="1660.63,-882.009 1666.72,-890.678 1670.8,-884.987 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node92">
+        <title
+           id="title2980">unittest_result</title>
+        <ellipse
+           id="ellipse2982"
+           ry="24.041599"
+           rx="36.7696"
+           cy="-420"
+           cx="1720.36"
+           style="fill:#5623b3;stroke:#000000" />
+        <text
+           id="text2984"
+           font-size="10.00"
+           y="-424"
+           x="1720.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">unittest.</text>
+        <text
+           id="text2986"
+           font-size="10.00"
+           y="-411"
+           x="1720.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">result</text>
+      </g>
+      <g
+         class="edge"
+         id="edge290">
+        <title
+           id="title2989">traceback-&gt;unittest_result</title>
+        <path
+           id="path2991"
+           d="m 1785.36,-498 c -4.16,20.754 -18.71,39.199 -33,52.934"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon2993"
+           points="1744.97,-438.324 1750,-447.649 1754.72,-442.478 "
+           style="fill:#000000;stroke:#000000" />
+        <path
+           id="path2995"
+           d="m 1695.36,-942 c 17.51,28.347 38.05,23.74 52,54 72.88,158.167 72.15,219.228 38,390"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge150">
+        <title
+           id="title2998">traceback-&gt;logging</title>
+        <path
+           id="path3000"
+           d="m 1695.36,-942 c 29.59,59.738 11.27,84.293 0,150"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node171">
+        <title
+           id="title3003">pydeps_dot</title>
+        <ellipse
+           id="ellipse3005"
+           ry="18"
+           rx="40.013199"
+           cy="-336"
+           cx="1128.36"
+           style="fill:#234ab3;stroke:#000000" />
+        <text
+           id="text3007"
+           font-size="10.00"
+           y="-333.5"
+           x="1128.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">pydeps.dot</text>
+      </g>
+      <g
+         class="edge"
+         id="edge310">
+        <title
+           id="title3010">subprocess-&gt;pydeps_dot</title>
+        <path
+           id="path3012"
+           d="m 1202.92,-486.824 c -27.49,11.652 -64.08,33.01 -74.56,66.824"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge10">
+        <title
+           id="title3015">threading-&gt;subprocess</title>
+        <path
+           id="path3017"
+           d="m 1413.57,-559.989 c -35.4,12.316 -95.79,33.319 -136.34,47.422"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3019"
+           points="1267.63,-509.228 1275.93,-515.819 1278.23,-509.207 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge154">
+        <title
+           id="title3022">threading-&gt;logging</title>
+        <path
+           id="path3024"
+           d="m 1455.11,-553.301 c 6.94,9.088 15.66,20.504 23.38,30.601"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3026"
+           points="1484.67,-514.609 1475.82,-520.431 1481.38,-524.68 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge12">
+        <title
+           id="title3029">pickle-&gt;subprocess</title>
+        <path
+           id="path3031"
+           d="m 1022.03,-703.092 c 4.71,2.353 9.68,4.817 14.33,7.092 33.2,16.268 48.08,10.645 75,36 39.96,37.654 25.11,65.599 60,108 9.81,11.924 22.49,23.249 33.98,32.42"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3033"
+           points="1213.44,-513.305 1203.39,-516.665 1207.68,-522.198 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node16">
+        <title
+           id="title3036">select</title>
+        <ellipse
+           id="ellipse3038"
+           ry="18"
+           rx="27"
+           cy="-570"
+           cx="1207.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text3040"
+           font-size="10.00"
+           y="-567.5"
+           x="1207.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">select</text>
+      </g>
+      <g
+         class="edge"
+         id="edge14">
+        <title
+           id="title3043">select-&gt;subprocess</title>
+        <path
+           id="path3045"
+           d="m 1214.13,-552.571 c 3.19,8.191 7.06,18.149 10.62,27.304"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3047"
+           points="1228.44,-515.769 1221.56,-523.82 1228.08,-526.358 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge172">
+        <title
+           id="title3050">tempfile-&gt;doctest</title>
+        <path
+           id="path3052"
+           d="m 1167.54,-854.59 c 12.96,11.613 30.89,27.696 45.34,40.65"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3054"
+           points="1220.5,-807.113 1210.72,-811.182 1215.39,-816.394 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge18">
+        <title
+           id="title3057">dummy_thread-&gt;tempfile</title>
+        <path
+           id="path3059"
+           d="m 1284.65,-928.313 c -25.7,10.806 -62.36,26.339 -94.29,40.313 -2.05,0.893 -4.14,1.817 -6.26,2.753"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3061"
+           points="1174.86,-881.123 1182.57,-888.393 1185.42,-882 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge30">
+        <title
+           id="title3064">dummy_thread-&gt;collections</title>
+        <path
+           id="path3066"
+           d="m 1324.22,-924.102 c 13.33,35.81 42.26,119.11 52.14,192.102 2.14,15.856 5.68,21.044 0,36 -4.42,11.607 -12.6,22.313 -20.97,31.078"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3068"
+           points="1348.08,-657.744 1352.76,-667.246 1357.67,-662.249 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node22">
+        <title
+           id="title3071">io</title>
+        <ellipse
+           id="ellipse3073"
+           ry="18"
+           rx="27"
+           cy="-942"
+           cx="1106.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text3075"
+           font-size="10.00"
+           y="-939.5"
+           x="1106.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">io</text>
+      </g>
+      <g
+         class="edge"
+         id="edge20">
+        <title
+           id="title3078">io-&gt;tempfile</title>
+        <path
+           id="path3080"
+           d="m 1116.56,-925.301 c 5.36,8.779 12.06,19.731 18.07,29.567"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3082"
+           points="1139.9,-887.109 1131.7,-893.816 1137.67,-897.467 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node24">
+        <title
+           id="title3085">StringIO</title>
+        <ellipse
+           id="ellipse3087"
+           ry="18"
+           rx="32.010502"
+           cy="-942"
+           cx="991.35498"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text3089"
+           font-size="10.00"
+           y="-939.5"
+           x="991.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">StringIO</text>
+      </g>
+      <g
+         class="edge"
+         id="edge184">
+        <title
+           id="title3092">StringIO-&gt;doctest</title>
+        <path
+           id="path3094"
+           d="m 945.355,-870 c 1.064,57.479 199.635,32.625 253.005,54 3.52,1.413 7.09,3.136 10.57,5.003"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3096"
+           points="1217.81,-805.831 1207.4,-807.836 1210.92,-813.886 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge256">
+        <title
+           id="title3099">StringIO-&gt;pickle</title>
+        <path
+           id="path3101"
+           d="m 945.355,-792 c 3.702,21.635 18.3,41.765 31.526,56.155"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3103"
+           points="984.009,-728.469 974.543,-733.227 979.577,-738.092 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge22">
+        <title
+           id="title3106">StringIO-&gt;tempfile</title>
+        <path
+           id="path3108"
+           d="m 1016.55,-930.591 c 27.02,12.236 70.08,31.734 100.03,45.295"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3110"
+           points="1125.8,-881.119 1115.25,-882.055 1118.14,-888.432 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge24">
+        <title
+           id="title3113">StringIO-&gt;pprint</title>
+        <path
+           id="path3115"
+           d="m 945.355,-792 c 7.336,42.871 -9.797,63.404 19,96 42.235,47.812 117.955,-7.998 133.005,54"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path3117"
+           d="m 945.355,-870 c 0.642,34.661 -6.891,44.025 0,78"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path3119"
+           d="m 1097.36,-642 c 4.19,18.486 -43.37,43.295 -77.29,58.439"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3121"
+           points="1010.49,-579.374 1018.25,-586.585 1021.06,-580.171 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node56">
+        <title
+           id="title3124">pydeps_render_context</title>
+        <ellipse
+           id="ellipse3126"
+           ry="24.041599"
+           rx="56.777599"
+           cy="-420"
+           cx="641.35498"
+           style="fill:#234ab3;stroke:#000000" />
+        <text
+           id="text3128"
+           font-size="10.00"
+           y="-424"
+           x="641.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">pydeps.</text>
+        <text
+           id="text3130"
+           font-size="10.00"
+           y="-411"
+           x="641.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">render_context</text>
+      </g>
+      <g
+         class="edge"
+         id="edge272">
+        <title
+           id="title3133">StringIO-&gt;pydeps_render_context</title>
+        <path
+           id="path3135"
+           d="m 637.355,-570 c 8.272,38.981 8.087,84.932 6.598,115.607"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3137"
+           points="643.383,-444.216 640.448,-454.396 647.437,-454.005 "
+           style="fill:#000000;stroke:#000000" />
+        <path
+           id="path3139"
+           d="m 945.355,-870 c 1.52,82.082 -78.025,70.895 -154,102 -77.519,31.738 -125.774,-23.235 -185,36 -34.223,34.228 -30.477,62.489 -14,108 10.635,29.375 36.835,23.845 45,54"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path3141"
+           d="m 973.635,-926.871 c -13.661,13.5 -29.968,34.536 -28.28,56.871"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node69">
+        <title
+           id="title3144">shlex</title>
+        <ellipse
+           id="ellipse3146"
+           ry="18"
+           rx="27"
+           cy="-570"
+           cx="1097.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text3148"
+           font-size="10.00"
+           y="-567.5"
+           x="1097.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">shlex</text>
+      </g>
+      <g
+         class="edge"
+         id="edge74">
+        <title
+           id="title3151">StringIO-&gt;shlex</title>
+        <path
+           id="path3153"
+           d="m 1097.36,-642 c 3.23,14.236 3.51,30.466 2.86,43.91"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3155"
+           points="1099.54,-587.998 1096.72,-598.211 1103.71,-597.74 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge288">
+        <title
+           id="title3158">StringIO-&gt;unittest_result</title>
+        <path
+           id="path3160"
+           d="m 1020.93,-934.976 c 14.81,3.445 33.04,7.574 49.43,10.976 85,17.647 108.26,13.057 192,36 195.26,53.503 286.03,11.646 428,156 53.41,54.316 38.19,87.929 56,162"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node104">
+        <title
+           id="title3163">gettext</title>
+        <ellipse
+           id="ellipse3165"
+           ry="18"
+           rx="28.9326"
+           cy="-570"
+           cx="206.355"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text3167"
+           font-size="10.00"
+           y="-567.5"
+           x="206.355"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">gettext</text>
+      </g>
+      <g
+         class="edge"
+         id="edge296">
+        <title
+           id="title3170">StringIO-&gt;gettext</title>
+        <path
+           id="path3172"
+           d="m 959.384,-939.423 c -123.358,10.396 -567.407,52.154 -687.029,123.423 -11.687,6.963 -7.157,17.305 -19,24"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node72">
+        <title
+           id="title3175">pydeps_py2depgraph</title>
+        <ellipse
+           id="ellipse3177"
+           ry="24.041599"
+           rx="50.911701"
+           cy="-336"
+           cx="887.35498"
+           style="fill:#234ab3;stroke:#000000" />
+        <text
+           id="text3179"
+           font-size="10.00"
+           y="-340"
+           x="887.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">pydeps.</text>
+        <text
+           id="text3181"
+           font-size="10.00"
+           y="-327"
+           x="887.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">py2depgraph</text>
+      </g>
+      <g
+         class="edge"
+         id="edge76">
+        <title
+           id="title3184">pprint-&gt;pydeps_py2depgraph</title>
+        <path
+           id="path3186"
+           d="m 1004.36,-498 c -6.221,34.105 19.38,49.262 0,78"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path3188"
+           d="m 1004.36,-420 c -17.941,26.585 -47.27,47.615 -72.076,61.984"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3190"
+           points="923.379,-353.026 930.392,-360.968 933.814,-354.862 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node75">
+        <title
+           id="title3193">pydeps_depgraph</title>
+        <ellipse
+           id="ellipse3195"
+           ry="24.041599"
+           rx="39.096699"
+           cy="-420"
+           cx="899.35498"
+           style="fill:#234ab3;stroke:#000000" />
+        <text
+           id="text3197"
+           font-size="10.00"
+           y="-424"
+           x="899.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">pydeps.</text>
+        <text
+           id="text3199"
+           font-size="10.00"
+           y="-411"
+           x="899.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">depgraph</text>
+      </g>
+      <g
+         class="edge"
+         id="edge232">
+        <title
+           id="title3202">pprint-&gt;pydeps_depgraph</title>
+        <path
+           id="path3204"
+           d="m 1004.36,-498 c -5.535,30.343 -34.753,50.445 -60.967,62.631"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3206"
+           points="933.921,-431.233 941.685,-438.442 944.486,-432.027 "
+           style="fill:#000000;stroke:#000000" />
+        <path
+           id="path3208"
+           d="m 995.58,-552.647 c 5.88,14.518 12.21,35.82 8.78,54.647"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge102">
+        <title
+           id="title3211">pprint-&gt;unittest_case</title>
+        <path
+           id="path3213"
+           d="m 1009.4,-559.135 c 43.83,21.46 140.71,68.159 175.96,79.135 72.2,22.489 307.01,-10.263 335,60"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path3215"
+           d="m 1520.36,-420 c 7.22,17.466 7.13,38.778 5.28,55.565"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3217"
+           points="1524.23,-354.144 1522.12,-364.527 1529.05,-363.576 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node167">
+        <title
+           id="title3220">pydeps_pydeps</title>
+        <ellipse
+           id="ellipse3222"
+           ry="18"
+           rx="51.0937"
+           cy="-252"
+           cx="887.35498"
+           style="fill:#234ab3;stroke:#000000" />
+        <text
+           id="text3224"
+           font-size="10.00"
+           y="-249.5"
+           x="887.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">pydeps.pydeps</text>
+      </g>
+      <g
+         class="edge"
+         id="edge214">
+        <title
+           id="title3227">pprint-&gt;pydeps_pydeps</title>
+        <path
+           id="path3229"
+           d="m 999.861,-553.501 c 6.939,10.209 14.869,23.922 18.499,37.501 13.74,51.533 18.33,69.916 0,120 -18.986,51.86 -67.105,96.183 -99.434,121.463"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3231"
+           points="910.67,-268.225 916.488,-277.079 920.74,-271.518 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge66">
+        <title
+           id="title3234">collections-&gt;threading</title>
+        <path
+           id="path3236"
+           d="m 1351.42,-627.43 c 17.42,10.997 41.47,26.188 60.46,38.184"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3238"
+           points="1420.48,-583.816 1410.16,-586.197 1413.89,-592.115 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node61">
+        <title
+           id="title3241">unittest_util</title>
+        <ellipse
+           id="ellipse3243"
+           ry="18"
+           rx="40.013199"
+           cy="-498"
+           cx="1410.36"
+           style="fill:#5623b3;stroke:#000000" />
+        <text
+           id="text3245"
+           font-size="10.00"
+           y="-495.5"
+           x="1410.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">unittest.util</text>
+      </g>
+      <g
+         class="edge"
+         id="edge60">
+        <title
+           id="title3248">collections-&gt;unittest_util</title>
+        <path
+           id="path3250"
+           d="m 1342.36,-570 c 10.23,18.876 26.66,36.469 40.8,49.539"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3252"
+           points="1390.73,-513.686 1380.95,-517.747 1385.62,-522.963 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge72">
+        <title
+           id="title3255">collections-&gt;shlex</title>
+        <path
+           id="path3257"
+           d="m 1295.75,-631.837 c -43.38,13.522 -119.74,37.322 -164.01,51.119"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3259"
+           points="1122.01,-577.686 1130.52,-584.003 1132.6,-577.32 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge82">
+        <title
+           id="title3262">collections-&gt;pydeps_py2depgraph</title>
+        <path
+           id="path3264"
+           d="m 1292.81,-634.476 c -15.49,3.256 -33.86,7.09 -50.45,10.476 -80.37,16.402 -119.34,-18.084 -181,36 -59.28,51.992 -12.91,102.638 -57,168"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge236">
+        <title
+           id="title3267">collections-&gt;pydeps_depgraph</title>
+        <path
+           id="path3269"
+           d="m 1293.37,-633.769 c -15.55,3.422 -34.13,7.19 -51.01,9.769 -40.95,6.252 -343.17,5.333 -371.005,36 -33.801,37.24 -10.328,99.155 9.235,136.518"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3271"
+           points="885.442,-442.541 877.596,-449.661 883.748,-453 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge106">
+        <title
+           id="title3274">collections-&gt;unittest_case</title>
+        <path
+           id="path3276"
+           d="m 1328.89,-623.827 c 1.12,15.201 4.36,37.034 13.47,53.827"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path3278"
+           d="m 1342.36,-570 c 19.48,35.942 -7.62,58.97 19,90 49.17,57.328 130.13,-9.797 159,60"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge330">
+        <title
+           id="title3281">collections-&gt;difflib</title>
+        <path
+           id="path3283"
+           d="m 1361.3,-632.068 c 32.1,10.002 82.06,26.44 124.06,44.068 1.78,0.751 3.61,1.55 5.44,2.379"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3285"
+           points="1499.87,-581.322 1489.33,-582.441 1492.33,-588.767 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node113">
+        <title
+           id="title3288">inspect</title>
+        <ellipse
+           id="ellipse3290"
+           ry="18"
+           rx="29.0474"
+           cy="-570"
+           cx="795.35498"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text3292"
+           font-size="10.00"
+           y="-567.5"
+           x="795.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">inspect</text>
+      </g>
+      <g
+         class="edge"
+         id="edge124">
+        <title
+           id="title3295">collections-&gt;inspect</title>
+        <path
+           id="path3297"
+           d="m 1293.38,-633.706 c -15.55,3.434 -34.13,7.193 -51.02,9.706 -178.31,26.511 -229.02,-7.315 -404.005,36 -3.402,0.842 -6.885,1.915 -10.322,3.115"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3299"
+           points="818.568,-581.246 826.646,-588.101 829.158,-581.567 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge156">
+        <title
+           id="title3302">collections-&gt;logging</title>
+        <path
+           id="path3304"
+           d="m 1342.36,-570 c 16.5,30.446 84.05,39.842 117,54 1.81,0.778 3.66,1.592 5.52,2.426"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3306"
+           points="1474.17,-509.313 1463.62,-510.303 1466.54,-516.665 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge318">
+        <title
+           id="title3309">collections-&gt;argparse</title>
+        <path
+           id="path3311"
+           d="m 1293.84,-633.48 c -15.63,3.521 -34.39,7.285 -51.48,9.48 -161.98,20.792 -584.891,-30.59 -734.005,36 -4.246,1.896 -41.796,40.641 -66.746,66.671"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3313"
+           points="434.633,-514.04 439.019,-523.685 444.076,-518.844 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node32">
+        <title
+           id="title3316">keyword</title>
+        <ellipse
+           id="ellipse3318"
+           ry="18"
+           rx="32.124199"
+           cy="-714"
+           cx="1187.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text3320"
+           font-size="10.00"
+           y="-711.5"
+           x="1187.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">keyword</text>
+      </g>
+      <g
+         class="edge"
+         id="edge32">
+        <title
+           id="title3323">keyword-&gt;collections</title>
+        <path
+           id="path3325"
+           d="m 1211.27,-701.786 c 22.4,11.434 56.14,28.664 81.65,41.694"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3327"
+           points="1301.92,-655.5 1291.42,-656.931 1294.6,-663.165 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node35">
+        <title
+           id="title3330">optparse</title>
+        <ellipse
+           id="ellipse3332"
+           ry="18"
+           rx="33.241699"
+           cy="-498"
+           cx="335.35501"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text3334"
+           font-size="10.00"
+           y="-495.5"
+           x="335.35501"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">optparse</text>
+      </g>
+      <g
+         class="node"
+         id="node37">
+        <title
+           id="title3337">unittest_main</title>
+        <ellipse
+           id="ellipse3339"
+           ry="18"
+           rx="44.937901"
+           cy="-90"
+           cx="1585.36"
+           style="fill:#b3235f;stroke:#000000" />
+        <text
+           id="text3341"
+           font-size="10.00"
+           y="-87.5"
+           x="1585.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">unittest.main</text>
+      </g>
+      <g
+         class="edge"
+         id="edge36">
+        <title
+           id="title3344">optparse-&gt;unittest_main</title>
+        <path
+           id="path3346"
+           d="m 480.355,-420 c 80.608,205.122 839.815,301.501 1050.825,324.4678"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3348"
+           points="1541.39,-94.4316 1531.07,-92.0234 1531.82,-98.9831 "
+           style="fill:#000000;stroke:#000000" />
+        <path
+           id="path3350"
+           d="m 361.139,-486.551 c 36.704,16.692 101.538,47.762 119.216,66.551"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node157">
+        <title
+           id="title3353">unittest</title>
+        <ellipse
+           id="ellipse3355"
+           ry="18"
+           rx="30.163799"
+           cy="-18"
+           cx="1585.36"
+           style="fill:#5623b3;stroke:#000000" />
+        <text
+           id="text3357"
+           font-size="10.00"
+           y="-15.5"
+           x="1585.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">unittest</text>
+      </g>
+      <g
+         class="edge"
+         id="edge200">
+        <title
+           id="title3360">unittest_main-&gt;unittest</title>
+        <path
+           id="path3362"
+           d="m 1585.36,-71.8314 c 0,7.7004 0,16.8571 0,25.4148"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3364"
+           points="1585.36,-36.4133 1581.86,-46.4133 1588.86,-46.4132 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node38">
+        <title
+           id="title3367">unittest_signals</title>
+        <ellipse
+           id="ellipse3369"
+           ry="24.041599"
+           rx="36.7696"
+           cy="-252"
+           cx="1590.36"
+           style="fill:#b39823;stroke:#000000" />
+        <text
+           id="text3371"
+           font-size="10.00"
+           y="-256"
+           x="1590.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#000000">unittest.</text>
+        <text
+           id="text3373"
+           font-size="10.00"
+           y="-243"
+           x="1590.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#000000">signals</text>
+      </g>
+      <g
+         class="edge"
+         id="edge38">
+        <title
+           id="title3376">unittest_signals-&gt;unittest_main</title>
+        <path
+           id="path3378"
+           d="m 1585.78,-227.899 c -2.44,16.904 -4.24,39.954 -0.42,59.899"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path3380"
+           d="m 1585.36,-168 c 3.11,16.268 3.25,34.796 2.54,49.712"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3382"
+           points="1587.27,-108.15 1584.4,-118.349 1591.39,-117.913 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node42">
+        <title
+           id="title3385">unittest_runner</title>
+        <ellipse
+           id="ellipse3387"
+           ry="24.041599"
+           rx="36.7696"
+           cy="-168"
+           cx="1742.36"
+           style="fill:#23b383;stroke:#000000" />
+        <text
+           id="text3389"
+           font-size="10.00"
+           y="-172"
+           x="1742.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#000000">unittest.</text>
+        <text
+           id="text3391"
+           font-size="10.00"
+           y="-159"
+           x="1742.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#000000">runner</text>
+      </g>
+      <g
+         class="edge"
+         id="edge132">
+        <title
+           id="title3394">unittest_signals-&gt;unittest_runner</title>
+        <path
+           id="path3396"
+           d="m 1618.59,-236.397 c 24.34,13.454 59.69,32.985 86.38,47.735"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3398"
+           points="1714.01,-183.662 1703.57,-185.435 1706.96,-191.562 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge204">
+        <title
+           id="title3401">unittest_signals-&gt;unittest</title>
+        <path
+           id="path3403"
+           d="m 1585.36,-168 c 8.92,46.634 100.69,39.434 73,78"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path3405"
+           d="m 1658.36,-90 c -13.5,18.7871 -32.1,37.0517 -47.15,50.4843"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3407"
+           points="1603.27,-32.5777 1608.5,-41.7932 1613.1,-36.5221 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node40">
+        <title
+           id="title3410">getopt</title>
+        <ellipse
+           id="ellipse3412"
+           ry="18"
+           rx="27.0858"
+           cy="-570"
+           cx="544.35498"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text3414"
+           font-size="10.00"
+           y="-567.5"
+           x="544.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">getopt</text>
+      </g>
+      <g
+         class="edge"
+         id="edge40">
+        <title
+           id="title3417">getopt-&gt;unittest_main</title>
+        <path
+           id="path3419"
+           d="m 528.289,-554.906 c -29.411,29.387 -85.573,94.902 -47.934,134.906"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node55">
+        <title
+           id="title3422">pydeps_depgraph2dot</title>
+        <ellipse
+           id="ellipse3424"
+           ry="24.041599"
+           rx="53.033001"
+           cy="-336"
+           cx="765.35498"
+           style="fill:#234ab3;stroke:#000000" />
+        <text
+           id="text3426"
+           font-size="10.00"
+           y="-340"
+           x="765.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">pydeps.</text>
+        <text
+           id="text3428"
+           font-size="10.00"
+           y="-327"
+           x="765.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">depgraph2dot</text>
+      </g>
+      <g
+         class="edge"
+         id="edge54">
+        <title
+           id="title3431">getopt-&gt;pydeps_depgraph2dot</title>
+        <path
+           id="path3433"
+           d="m 556.355,-498 c 23.77,39.515 -11.563,67.47 19,102 17.535,19.81 81.948,37.368 130.959,48.292"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3435"
+           points="716.204,-345.546 705.688,-344.262 707.183,-351.101 "
+           style="fill:#000000;stroke:#000000" />
+        <path
+           id="path3437"
+           d="m 543.656,-551.8 c 0.235,15.42 2.594,37.55 12.699,53.8"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node73">
+        <title
+           id="title3440">pydeps_mf27</title>
+        <ellipse
+           id="ellipse3442"
+           ry="18"
+           rx="43.824299"
+           cy="-420"
+           cx="760.35498"
+           style="fill:#234ab3;stroke:#000000" />
+        <text
+           id="text3444"
+           font-size="10.00"
+           y="-417.5"
+           x="760.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">pydeps.mf27</text>
+      </g>
+      <g
+         class="edge"
+         id="edge276">
+        <title
+           id="title3447">getopt-&gt;pydeps_mf27</title>
+        <path
+           id="path3449"
+           d="m 556.355,-498 c 36.739,61.075 84.926,27.277 151,54 4.793,1.939 9.789,4.061 14.714,6.217"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3451"
+           points="731.381,-433.636 720.822,-434.506 723.67,-440.901 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge42">
+        <title
+           id="title3454">unittest_runner-&gt;unittest_main</title>
+        <path
+           id="path3456"
+           d="m 1713.22,-152.641 c -5.59,2.899 -11.4,5.884 -16.86,8.641 -24.01,12.098 -51.14,25.305 -72.57,35.63"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3458"
+           points="1614.68,-103.989 1622.17,-111.477 1625.21,-105.168 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge196">
+        <title
+           id="title3461">unittest_runner-&gt;unittest</title>
+        <path
+           id="path3463"
+           d="m 1717.79,-149.64 c -18.23,14.593 -42.72,36.363 -59.43,59.64"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge44">
+        <title
+           id="title3466">unittest_loader-&gt;unittest_main</title>
+        <path
+           id="path3468"
+           d="m 1632.59,-146.686 c -8.18,9.823 -17.95,21.546 -26.48,31.774"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3470"
+           points="1599.6,-107.093 1603.31,-117.016 1608.69,-112.535 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge202">
+        <title
+           id="title3473">unittest_loader-&gt;unittest</title>
+        <path
+           id="path3475"
+           d="m 1660.41,-144.713 c 5.53,16.731 9.22,39.012 -2.05,54.713"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node46">
+        <title
+           id="title3478">genericpath</title>
+        <ellipse
+           id="ellipse3480"
+           ry="18"
+           rx="41.244301"
+           cy="-714"
+           cx="294.35501"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text3482"
+           font-size="10.00"
+           y="-711.5"
+           x="294.35501"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">genericpath</text>
+      </g>
+      <g
+         class="edge"
+         id="edge46">
+        <title
+           id="title3485">genericpath-&gt;ntpath</title>
+        <path
+           id="path3487"
+           d="m 294.355,-695.831 c 0,7.7 0,16.857 0,25.414"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3489"
+           points="294.355,-660.413 290.855,-670.413 297.855,-670.413 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node153">
+        <title
+           id="title3492">os2emxpath</title>
+        <ellipse
+           id="ellipse3494"
+           ry="18"
+           rx="43.091099"
+           cy="-570"
+           cx="296.35501"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text3496"
+           font-size="10.00"
+           y="-567.5"
+           x="296.35501"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">os2emxpath</text>
+      </g>
+      <g
+         class="edge"
+         id="edge186">
+        <title
+           id="title3499">genericpath-&gt;os2emxpath</title>
+        <path
+           id="path3501"
+           d="m 279.116,-696.879 c -7.862,9.998 -16.647,23.291 -20.761,36.879 -4.636,15.313 -4.829,20.746 0,36 3.27,10.328 9.304,20.389 15.615,28.973"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3503"
+           points="280.282,-586.98 271.357,-592.688 276.864,-597.008 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge218">
+        <title
+           id="title3506">genericpath-&gt;posixpath</title>
+        <path
+           id="path3508"
+           d="m 333.156,-707.815 c 24.874,3.806 57.879,8.562 87.199,11.815 201.176,22.324 256.911,-10.109 454,36 2.842,0.665 5.74,1.48 8.627,2.393"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3510"
+           points="892.655,-654.207 882.06,-654.222 884.382,-660.825 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge190">
+        <title
+           id="title3513">ntpath-&gt;os2emxpath</title>
+        <path
+           id="path3515"
+           d="m 294.86,-623.831 c 0.214,7.7 0.468,16.857 0.706,25.414"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3517"
+           points="295.844,-588.413 292.067,-598.312 299.064,-598.507 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node49">
+        <title
+           id="title3520">stat</title>
+        <ellipse
+           id="ellipse3522"
+           ry="18"
+           rx="27"
+           cy="-792"
+           cx="308.35501"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text3524"
+           font-size="10.00"
+           y="-789.5"
+           x="308.35501"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">stat</text>
+      </g>
+      <g
+         class="edge"
+         id="edge312">
+        <title
+           id="title3527">stat-&gt;genericpath</title>
+        <path
+           id="path3529"
+           d="m 305.108,-773.909 c -1.696,9.451 -3.81,21.227 -5.713,31.832"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3531"
+           points="297.585,-731.993 295.906,-742.454 302.796,-741.217 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge48">
+        <title
+           id="title3534">stat-&gt;ntpath</title>
+        <path
+           id="path3536"
+           d="m 288.268,-779.804 c -15.231,10.526 -35.013,27.26 -43.913,47.804 -6.36,14.681 -5.838,21.103 0,36 5.039,12.86 14.738,24.488 24.263,33.631"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3538"
+           points="276.127,-655.592 266.359,-659.694 271.048,-664.89 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge188">
+        <title
+           id="title3541">stat-&gt;os2emxpath</title>
+        <path
+           id="path3543"
+           d="m 287.878,-779.955 c -29.009,17.08 -78.773,46.451 -80.523,47.955 -31.37,26.973 -45.077,33.042 -59,72 -5.385,15.067 -9.172,22.89 0,36 1.613,2.305 62.303,23.958 105.455,39.134"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3545"
+           points="263.267,-581.545 252.672,-581.556 254.992,-588.161 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge220">
+        <title
+           id="title3548">stat-&gt;posixpath</title>
+        <path
+           id="path3550"
+           d="m 335.223,-789.56 c 74.897,7.095 284.612,29.035 347.132,57.56 22.676,10.346 20.745,24.778 43,36 60.832,30.674 84.095,15.296 149,36 2.543,0.811 5.146,1.698 7.756,2.628"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3552"
+           points="891.496,-653.864 880.903,-654.087 883.354,-660.644 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node51">
+        <title
+           id="title3555">string</title>
+        <ellipse
+           id="ellipse3557"
+           ry="18"
+           rx="27"
+           cy="-714"
+           cx="456.35501"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text3559"
+           font-size="10.00"
+           y="-711.5"
+           x="456.35501"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">string</text>
+      </g>
+      <g
+         class="edge"
+         id="edge50">
+        <title
+           id="title3562">string-&gt;ntpath</title>
+        <path
+           id="path3564"
+           d="m 433.83,-703.989 c -27.97,12.431 -75.859,33.715 -107.591,47.818"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3566"
+           points="316.95,-652.042 324.666,-659.302 327.509,-652.905 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node63">
+        <title
+           id="title3569">cmd</title>
+        <ellipse
+           id="ellipse3571"
+           ry="18"
+           rx="27"
+           cy="-642"
+           cx="442.35501"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text3573"
+           font-size="10.00"
+           y="-639.5"
+           x="442.35501"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">cmd</text>
+      </g>
+      <g
+         class="edge"
+         id="edge62">
+        <title
+           id="title3576">string-&gt;cmd</title>
+        <path
+           id="path3578"
+           d="m 452.822,-695.831 c -1.537,7.904 -3.372,17.344 -5.074,26.094"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3580"
+           points="445.838,-659.913 444.311,-670.398 451.183,-669.061 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node102">
+        <title
+           id="title3583">textwrap</title>
+        <ellipse
+           id="ellipse3585"
+           ry="18"
+           rx="32.124199"
+           cy="-570"
+           cx="429.35501"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text3587"
+           font-size="10.00"
+           y="-567.5"
+           x="429.35501"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">textwrap</text>
+      </g>
+      <g
+         class="edge"
+         id="edge316">
+        <title
+           id="title3590">string-&gt;textwrap</title>
+        <path
+           id="path3592"
+           d="m 438.127,-700.408 c -11.515,9.791 -25.385,24.111 -31.772,40.408 -8.13,20.746 -0.784,45.315 7.7,63.537"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3594"
+           points="418.657,-587.313 411.037,-594.674 417.291,-597.819 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge120">
+        <title
+           id="title3597">string-&gt;inspect</title>
+        <path
+           id="path3599"
+           d="m 483.024,-710.888 c 70.862,8.485 259.907,32.61 281.331,50.888 17.986,15.345 25.551,41.646 28.725,61.866"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3601"
+           points="794.372,-588.205 789.611,-597.67 796.552,-598.573 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node117">
+        <title
+           id="title3604">tokenize</title>
+        <ellipse
+           id="ellipse3606"
+           ry="18"
+           rx="32.124199"
+           cy="-642"
+           cx="69.355103"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text3608"
+           font-size="10.00"
+           y="-639.5"
+           x="69.355103"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">tokenize</text>
+      </g>
+      <g
+         class="edge"
+         id="edge230">
+        <title
+           id="title3611">string-&gt;tokenize</title>
+        <path
+           id="path3613"
+           d="m 429.903,-709.824 c -53.386,8.529 -177.771,28.918 -281.548,49.824 -12.948,2.608 -27.026,5.725 -39.663,8.626"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3615"
+           points="98.9153,-649.107 107.866,-654.775 109.447,-647.956 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge210">
+        <title
+           id="title3618">pydeps_depgraph2dot-&gt;pydeps_pydeps</title>
+        <path
+           id="path3620"
+           d="m 794.577,-315.88 c 18.462,12.711 42.311,29.132 61.206,42.142"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3622"
+           points="864.079,-268.026 853.858,-270.814 857.827,-276.58 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge56">
+        <title
+           id="title3625">pydeps_render_context-&gt;pydeps_depgraph2dot</title>
+        <path
+           id="path3627"
+           d="m 671.689,-399.451 c 16.76,11.353 37.739,25.565 55.592,37.659"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3629"
+           points="735.762,-356.047 725.52,-358.758 729.446,-364.553 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node58">
+        <title
+           id="title3632">pydeps_colors</title>
+        <ellipse
+           id="ellipse3634"
+           ry="18"
+           rx="46.901299"
+           cy="-498"
+           cx="796.35498"
+           style="fill:#234ab3;stroke:#000000" />
+        <text
+           id="text3636"
+           font-size="10.00"
+           y="-495.5"
+           x="796.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">pydeps.colors</text>
+      </g>
+      <g
+         class="edge"
+         id="edge58">
+        <title
+           id="title3639">pydeps_colors-&gt;pydeps_depgraph2dot</title>
+        <path
+           id="path3641"
+           d="m 804.539,-480.217 c 8.358,20.723 18.799,55.757 8.816,84.217 -3.893,11.099 -10.799,21.67 -18.18,30.76"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3643"
+           points="788.631,-357.657 792.515,-367.514 797.814,-362.94 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge234">
+        <title
+           id="title3646">pydeps_colors-&gt;pydeps_depgraph</title>
+        <path
+           id="path3648"
+           d="m 817.697,-481.838 c 14.05,10.639 32.723,24.78 48.667,36.854"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3650"
+           points="874.413,-438.888 864.328,-442.135 868.554,-447.715 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge286">
+        <title
+           id="title3653">unittest_util-&gt;unittest_result</title>
+        <path
+           id="path3655"
+           d="m 1440.74,-486.165 c 6.12,2.192 12.53,4.357 18.62,6.165 74.36,22.112 162.68,40.891 215.16,51.287"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3657"
+           points="1684.52,-426.747 1674.04,-425.241 1675.39,-432.11 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge108">
+        <title
+           id="title3660">unittest_util-&gt;unittest_case</title>
+        <path
+           id="path3662"
+           d="m 1442.11,-486.967 c 27.62,11.657 65.19,33.11 78.25,66.967"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node110">
+        <title
+           id="title3665">unittest_suite</title>
+        <ellipse
+           id="ellipse3667"
+           ry="18"
+           rx="44.937901"
+           cy="-252"
+           cx="1490.36"
+           style="fill:#b34023;stroke:#000000" />
+        <text
+           id="text3669"
+           font-size="10.00"
+           y="-249.5"
+           x="1490.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">unittest.suite</text>
+      </g>
+      <g
+         class="edge"
+         id="edge118">
+        <title
+           id="title3672">unittest_util-&gt;unittest_suite</title>
+        <path
+           id="path3674"
+           d="m 1415.24,-479.875 c 9.14,33.462 29.85,107.075 51.12,167.875 3.75,10.722 8.28,22.349 12.4,32.487"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3676"
+           points="1482.69,-269.96 1475.65,-277.876 1482.12,-280.539 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge306">
+        <title
+           id="title3679">shlex-&gt;pydeps_dot</title>
+        <path
+           id="path3681"
+           d="m 1128.36,-420 c -5.57,17.94 -5.53,39.089 -4.12,55.678"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3683"
+           points="1125.31,-354.159 1120.78,-363.734 1127.74,-364.473 "
+           style="fill:#000000;stroke:#000000" />
+        <path
+           id="path3685"
+           d="m 1106.55,-552.629 c 13.7,28.23 36.37,85.64 21.81,132.629"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge212">
+        <title
+           id="title3688">pydeps_py2depgraph-&gt;pydeps_pydeps</title>
+        <path
+           id="path3690"
+           d="m 887.355,-311.704 c 0,9.854 0,21.299 0,31.516"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3692"
+           points="887.355,-270.102 883.855,-280.102 890.855,-280.102 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge78">
+        <title
+           id="title3695">pydeps_mf27-&gt;pydeps_py2depgraph</title>
+        <path
+           id="path3697"
+           d="m 783.649,-404.593 c 18.252,12.072 44.032,29.124 65.322,43.205"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3699"
+           points="857.484,-355.757 847.212,-358.355 851.074,-364.193 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge80">
+        <title
+           id="title3702">pydeps_depgraph-&gt;pydeps_py2depgraph</title>
+        <path
+           id="path3704"
+           d="m 895.884,-395.704 c -1.141,7.992 -2.433,17.031 -3.659,25.612"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3706"
+           points="890.777,-359.952 888.726,-370.346 895.656,-369.356 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node78">
+        <title
+           id="title3709">opcode</title>
+        <ellipse
+           id="ellipse3711"
+           ry="18"
+           rx="29.0474"
+           cy="-714"
+           cx="644.35498"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text3713"
+           font-size="10.00"
+           y="-711.5"
+           x="644.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">opcode</text>
+      </g>
+      <g
+         class="node"
+         id="node80">
+        <title
+           id="title3716">dis</title>
+        <ellipse
+           id="ellipse3718"
+           ry="18"
+           rx="27"
+           cy="-642"
+           cx="838.35498"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text3720"
+           font-size="10.00"
+           y="-639.5"
+           x="838.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">dis</text>
+      </g>
+      <g
+         class="edge"
+         id="edge84">
+        <title
+           id="title3723">opcode-&gt;dis</title>
+        <path
+           id="path3725"
+           d="m 668.327,-703.566 c 6.162,2.572 12.809,5.251 19.028,7.566 48.209,17.946 61.948,17.639 110,36 3.05,1.165 6.203,2.433 9.343,3.738"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3727"
+           points="815.962,-652.301 805.391,-653.015 808.143,-659.451 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge278">
+        <title
+           id="title3730">dis-&gt;pydeps_mf27</title>
+        <path
+           id="path3732"
+           d="M 814.269,-633.844 C 758.466,-613.68 628.542,-558.697 675.355,-498"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge128">
+        <title
+           id="title3735">dis-&gt;inspect</title>
+        <path
+           id="path3737"
+           d="m 828.165,-624.937 c -5.195,8.698 -11.621,19.457 -17.405,29.142"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3739"
+           points="805.472,-586.941 807.595,-597.321 813.605,-593.731 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node81">
+        <title
+           id="title3742">functools</title>
+        <ellipse
+           id="ellipse3744"
+           ry="18"
+           rx="33.973301"
+           cy="-714"
+           cx="1647.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text3746"
+           font-size="10.00"
+           y="-711.5"
+           x="1647.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">functools</text>
+      </g>
+      <g
+         class="edge"
+         id="edge136">
+        <title
+           id="title3749">functools-&gt;unittest_signals</title>
+        <path
+           id="path3751"
+           d="m 1593.36,-498 c -23.87,32.842 -13.95,152.543 -7.26,212.005"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3753"
+           points="1587.27,-275.967 1582.64,-285.498 1589.59,-286.304 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge140">
+        <title
+           id="title3756">functools-&gt;unittest_loader</title>
+        <path
+           id="path3758"
+           d="m 1670.36,-570 c -34.4,137.247 -58,183.199 -15,318"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node83">
+        <title
+           id="title3761">locale</title>
+        <ellipse
+           id="ellipse3763"
+           ry="18"
+           rx="27"
+           cy="-642"
+           cx="184.355"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text3765"
+           font-size="10.00"
+           y="-639.5"
+           x="184.355"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">locale</text>
+      </g>
+      <g
+         class="edge"
+         id="edge86">
+        <title
+           id="title3768">functools-&gt;locale</title>
+        <path
+           id="path3770"
+           d="m 1613.58,-711.385 c -51.25,3.885 -151.75,11.171 -237.22,15.385 -496.548,24.478 -625.409,-31.108 -1118.005,36 -12.998,1.771 -27.037,4.873 -39.357,8.008"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3772"
+           points="209.114,-649.379 217.888,-655.319 219.677,-648.551 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge292">
+        <title
+           id="title3775">functools-&gt;unittest_result</title>
+        <path
+           id="path3777"
+           d="m 1746.36,-570 c 9.84,39.76 -1.76,86.354 -12.45,116.936"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3779"
+           points="1730.35,-443.34 1730.5,-453.934 1737.07,-451.528 "
+           style="fill:#000000;stroke:#000000" />
+        <path
+           id="path3781"
+           d="m 1670.36,-642 c -0.39,46.527 65.12,26.759 76,72"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge100">
+        <title
+           id="title3784">functools-&gt;unittest_case</title>
+        <path
+           id="path3786"
+           d="m 1670.36,-570 c -11.39,45.447 -49.47,34.095 -77,72"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path3788"
+           d="m 1670.36,-642 c -0.27,31.999 7.77,40.96 0,72"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path3790"
+           d="m 1593.36,-498 c -27.91,38.413 -90.87,34.007 -73,78"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge334">
+        <title
+           id="title3793">functools-&gt;difflib</title>
+        <path
+           id="path3795"
+           d="m 1656.4,-696.447 c 6.51,14.281 14.12,35.158 13.96,54.447"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path3797"
+           d="m 1670.36,-642 c -0.22,25.187 -70.04,49.648 -114.01,62.563"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3799"
+           points="1546.58,-576.635 1555.23,-582.759 1557.16,-576.031 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge280">
+        <title
+           id="title3802">functools-&gt;contextlib</title>
+        <path
+           id="path3804"
+           d="m 1613.57,-711.598 c -51.27,3.609 -151.78,10.545 -237.21,15.598 -154.17,9.118 -543.169,2.877 -694.005,36 -2.851,0.626 -5.755,1.413 -8.646,2.305"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3806"
+           points="664.027,-654.332 672.325,-660.919 674.622,-654.307 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge298">
+        <title
+           id="title3809">locale-&gt;gettext</title>
+        <path
+           id="path3811"
+           d="m 189.793,-624.202 c 2.459,8.048 5.422,17.743 8.157,26.695"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3813"
+           points="200.903,-587.843 194.634,-596.383 201.328,-598.429 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node84">
+        <title
+           id="title3816">encodings_aliases</title>
+        <ellipse
+           id="ellipse3818"
+           ry="24.041599"
+           rx="44.7575"
+           cy="-792"
+           cx="580.35498"
+           style="fill:#ae23b3;stroke:#000000" />
+        <text
+           id="text3820"
+           font-size="10.00"
+           y="-796"
+           x="580.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">encodings.</text>
+        <text
+           id="text3822"
+           font-size="10.00"
+           y="-783"
+           x="580.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">aliases</text>
+      </g>
+      <g
+         class="edge"
+         id="edge88">
+        <title
+           id="title3825">encodings_aliases-&gt;locale</title>
+        <path
+           id="path3827"
+           d="m 535.841,-788.384 c -79.979,7.195 -244.081,25.343 -291.486,56.384 -23.056,15.098 -39.396,42.463 -49.143,63.069"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3829"
+           points="191.077,-659.725 191.982,-670.282 198.367,-667.413 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node89">
+        <title
+           id="title3832">encodings</title>
+        <ellipse
+           id="ellipse3834"
+           ry="18"
+           rx="37.050098"
+           cy="-714"
+           cx="842.35498"
+           style="fill:#ae23b3;stroke:#000000" />
+        <text
+           id="text3836"
+           font-size="10.00"
+           y="-711.5"
+           x="842.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">encodings</text>
+      </g>
+      <g
+         class="edge"
+         id="edge92">
+        <title
+           id="title3839">encodings_aliases-&gt;encodings</title>
+        <path
+           id="path3841"
+           d="m 619.863,-780.238 c 48.815,14.533 131.483,39.144 181.135,53.926"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3843"
+           points="810.769,-723.404 800.186,-722.903 802.183,-729.612 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge148">
+        <title
+           id="title3846">atexit-&gt;logging</title>
+        <path
+           id="path3848"
+           d="m 1658.99,-856.875 c 17.67,14.211 40.9,38.419 36.37,64.875"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node90">
+        <title
+           id="title3851">codecs</title>
+        <ellipse
+           id="ellipse3853"
+           ry="18"
+           rx="29.0474"
+           cy="-792"
+           cx="1160.36"
+           style="fill:#75b323;stroke:#000000" />
+        <text
+           id="text3855"
+           font-size="10.00"
+           y="-789.5"
+           x="1160.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#000000">codecs</text>
+      </g>
+      <g
+         class="edge"
+         id="edge94">
+        <title
+           id="title3858">codecs-&gt;encodings</title>
+        <path
+           id="path3860"
+           d="m 1141.38,-778.074 c -5.86,3.756 -12.5,7.489 -19.02,10.074 -42.04,16.638 -166.594,37.019 -234.543,47.335"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3862"
+           points="877.819,-719.158 887.186,-724.109 888.229,-717.188 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge160">
+        <title
+           id="title3865">codecs-&gt;logging</title>
+        <path
+           id="path3867"
+           d="m 1179.43,-778.171 c 27.12,19.401 78.67,55.327 124.93,82.171 30.94,17.957 50.1,7.703 72,36 30.03,38.815 -6.25,68.592 23,108 4.45,6 38.95,24.294 65.77,37.936"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3869"
+           points="1474.23,-509.46 1463.73,-510.849 1466.89,-517.096 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge130">
+        <title
+           id="title3872">unittest_result-&gt;unittest_runner</title>
+        <path
+           id="path3874"
+           d="m 1735.36,-336 c 12.93,44.867 12.43,99.253 10.24,133.747"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3876"
+           points="1744.88,-192.219 1742.1,-202.444 1749.09,-201.942 "
+           style="fill:#000000;stroke:#000000" />
+        <path
+           id="path3878"
+           d="m 1722.84,-396.034 c 2.2,17.044 6.08,40.317 12.52,60.034"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge96">
+        <title
+           id="title3881">unittest_result-&gt;unittest_case</title>
+        <path
+           id="path3883"
+           d="m 1689.11,-406.875 c -34.54,14.505 -90.28,37.917 -128.17,53.83"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3885"
+           points="1551.72,-349.171 1559.58,-356.27 1562.29,-349.817 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge194">
+        <title
+           id="title3888">unittest_result-&gt;unittest</title>
+        <path
+           id="path3890"
+           d="m 1735.36,-336 c 25.19,77.228 96.24,90.466 72,168"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge138">
+        <title
+           id="title3893">unittest_case-&gt;unittest_loader</title>
+        <path
+           id="path3895"
+           d="m 1559.07,-326.659 c 35.02,10.989 83.07,33.238 96.29,74.659"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path3897"
+           d="m 1655.36,-252 c 5.08,15.945 4.61,34.442 2.54,50.012"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3899"
+           points="1656.26,-191.743 1654.39,-202.17 1661.3,-201.064 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge116">
+        <title
+           id="title3902">unittest_case-&gt;unittest_suite</title>
+        <path
+           id="path3904"
+           d="m 1513.85,-317.773 c -4,11.193 -9.2,25.746 -13.69,38.317"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3906"
+           points="1496.75,-269.903 1496.82,-280.497 1503.41,-278.143 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge192">
+        <title
+           id="title3909">unittest_case-&gt;unittest</title>
+        <path
+           id="path3911"
+           d="m 1554.88,-324.38 c 79.32,27.743 266.7,99.755 252.48,156.38"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path3913"
+           d="m 1807.36,-168 c -17.28,55.254 -119.26,36.577 -149,78"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge104">
+        <title
+           id="title3916">difflib-&gt;unittest_case</title>
+        <path
+           id="path3918"
+           d="m 1527.18,-552.223 c 3.11,10.426 6.61,23.926 8.18,36.223 2.02,15.871 1.95,20.12 0,36 -3.36,27.281 -24.89,34.353 -15,60"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge336">
+        <title
+           id="title3921">difflib-&gt;difflib</title>
+        <path
+           id="path3923"
+           d="m 1541.25,-582.432 c 12.79,-3.243 25.11,0.901 25.11,12.432 0,8.378 -6.5,12.857 -14.97,13.436"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3925"
+           points="1541.25,-557.568 1551.55,-560.066 1550.86,-553.1 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge110">
+        <title
+           id="title3928">textwrap-&gt;optparse</title>
+        <path
+           id="path3930"
+           d="m 410.333,-555.43 c -13.67,10.471 -32.304,24.744 -47.576,36.441"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3932"
+           points="354.672,-512.796 360.482,-521.655 364.739,-516.098 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge270">
+        <title
+           id="title3935">textwrap-&gt;pydeps_render_context</title>
+        <path
+           id="path3937"
+           d="m 447.202,-554.608 c 21.822,18.539 60.175,50.228 95.153,74.608 17.831,12.429 38.265,25.064 55.92,35.514"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3939"
+           points="607.226,-439.233 596.83,-441.276 600.373,-447.313 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge324">
+        <title
+           id="title3942">textwrap-&gt;argparse</title>
+        <path
+           id="path3944"
+           d="m 426.832,-551.831 c -1.07,7.7 -2.342,16.857 -3.53,25.414"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3946"
+           points="421.912,-516.413 419.822,-526.8 426.755,-525.837 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge308">
+        <title
+           id="title3949">textwrap-&gt;pydeps_dot</title>
+        <path
+           id="path3951"
+           d="m 458.453,-562.493 c 14.85,3.607 33.249,7.735 49.902,10.493 151.658,25.12 195.316,-3.038 344,36 38.891,10.211 132.65,49.538 166.005,72 35.14,23.672 68.89,59.375 89.53,83.172"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3953"
+           points="1114.62,-352.947 1105.46,-358.277 1110.78,-362.823 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge112">
+        <title
+           id="title3956">gettext-&gt;optparse</title>
+        <path
+           id="path3958"
+           d="m 227.947,-557.949 c 20.515,11.451 51.63,28.817 75.099,41.916"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3960"
+           points="311.945,-511.066 301.507,-512.884 304.919,-518.996 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge326">
+        <title
+           id="title3963">gettext-&gt;argparse</title>
+        <path
+           id="path3965"
+           d="m 228.98,-558.477 c 4.994,2.315 10.307,4.608 15.375,6.477 57.455,21.192 75.158,15.889 133,36 2.276,0.791 4.603,1.648 6.938,2.544"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3967"
+           points="393.814,-509.622 383.231,-510.11 385.845,-516.604 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node106">
+        <title
+           id="title3970">copy</title>
+        <ellipse
+           id="ellipse3972"
+           ry="18"
+           rx="27"
+           cy="-714"
+           cx="1072.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text3974"
+           font-size="10.00"
+           y="-711.5"
+           x="1072.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">copy</text>
+      </g>
+      <g
+         class="edge"
+         id="edge304">
+        <title
+           id="title3977">copy-&gt;gettext</title>
+        <path
+           id="path3979"
+           d="m 497.355,-642 c -11.332,2.627 -8.554,12.883 -19,18 -94.494,46.29 -133.399,5.155 -234,36 -2.155,0.661 -4.343,1.424 -6.524,2.255"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3981"
+           points="228.429,-581.771 236.277,-588.888 239.003,-582.44 "
+           style="fill:#000000;stroke:#000000" />
+        <path
+           id="path3983"
+           d="m 1051.96,-702.121 c -4.96,2.412 -10.36,4.655 -15.6,6.121 -190.692,53.242 -247.801,9.534 -444.005,36 -42.588,5.745 -53.137,8.295 -95,18"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node108">
+        <title
+           id="title3986">UserDict</title>
+        <ellipse
+           id="ellipse3988"
+           ry="18"
+           rx="33.241699"
+           cy="-642"
+           cx="1200.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text3990"
+           font-size="10.00"
+           y="-639.5"
+           x="1200.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">UserDict</text>
+      </g>
+      <g
+         class="edge"
+         id="edge114">
+        <title
+           id="title3993">copy-&gt;UserDict</title>
+        <path
+           id="path3995"
+           d="m 1093.21,-702.272 c 20.38,11.468 51.71,29.087 75.23,42.319"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3997"
+           points="1177.35,-654.94 1166.92,-656.792 1170.35,-662.894 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node122">
+        <title
+           id="title4000">weakref</title>
+        <ellipse
+           id="ellipse4002"
+           ry="18"
+           rx="30.7794"
+           cy="-570"
+           cx="1283.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text4004"
+           font-size="10.00"
+           y="-567.5"
+           x="1283.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">weakref</text>
+      </g>
+      <g
+         class="edge"
+         id="edge166">
+        <title
+           id="title4007">copy-&gt;weakref</title>
+        <path
+           id="path4009"
+           d="m 1107.26,-704.55 c 46.67,12.886 124.79,35.41 135.1,44.55 18.26,16.2 28.89,42.175 34.72,62.065"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4011"
+           points="1097.53,-707.221 1108.1,-707.948 1106.24,-701.198 "
+           style="fill:#000000;stroke:#000000" />
+        <polygon
+           id="polygon4013"
+           points="1279.71,-588.172 1273.73,-596.917 1280.49,-598.738 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge322">
+        <title
+           id="title4016">copy-&gt;argparse</title>
+        <path
+           id="path4018"
+           d="m 497.355,-642 c -11.332,2.627 -9.203,11.728 -19,18 -45.532,29.149 -108.013,-0.055 -109,54"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge164">
+        <title
+           id="title4021">UserDict-&gt;weakref</title>
+        <path
+           id="path4023"
+           d="m 1217.96,-626.731 c 11.74,10.187 27.36,23.734 40.38,35.035"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4025"
+           points="1266.06,-585 1256.22,-588.909 1260.8,-594.197 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge144">
+        <title
+           id="title4028">unittest_suite-&gt;unittest_loader</title>
+        <path
+           id="path4030"
+           d="m 1517.86,-237.56 c 26.12,13.714 65.61,34.447 94.69,49.711"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4032"
+           points="1621.59,-183.101 1611.11,-184.65 1614.36,-190.848 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge198">
+        <title
+           id="title4035">unittest_suite-&gt;unittest</title>
+        <path
+           id="path4037"
+           d="m 1491.18,-233.975 c 2.24,33.792 10.42,108.11 40.18,161.975 6.87,12.454 17.48,23.9557 27.47,33.1151"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4039"
+           points="1566.63,-32.068 1556.8,-36.0124 1561.4,-41.2836 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge168">
+        <title
+           id="title4042">inspect-&gt;doctest</title>
+        <path
+           id="path4044"
+           d="m 820.89,-578.619 c 9.518,-3.104 20.444,-6.539 30.465,-9.381 64.296,-18.237 84.669,-9.447 146,-36 53.965,-23.363 64.795,-35.627 111.005,-72 18.27,-14.39 19.77,-21.541 38,-36 10.92,-8.67 39.45,-27.253 61.67,-41.456"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4046"
+           points="1216.5,-778.847 1209.94,-770.523 1206.18,-776.426 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node114">
+        <title
+           id="title4049">linecache</title>
+        <ellipse
+           id="ellipse4051"
+           ry="18"
+           rx="35.201199"
+           cy="-1086"
+           cx="839.35498"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text4053"
+           font-size="10.00"
+           y="-1083.5"
+           x="839.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">linecache</text>
+      </g>
+      <g
+         class="edge"
+         id="edge180">
+        <title
+           id="title4056">linecache-&gt;doctest</title>
+        <path
+           id="path4058"
+           d="m 874.105,-1083.17 c 88.681,7.51 318.245,28.91 344.255,51.17 25.42,21.76 39.05,110.907 44,144 2.36,15.824 3.13,20.311 0,36 -2.29,11.404 -6.78,23.351 -11.34,33.555"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4060"
+           points="1246.7,-809.271 1247.79,-819.809 1254.13,-816.828 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge314">
+        <title
+           id="title4063">linecache-&gt;warnings</title>
+        <path
+           id="path4065"
+           d="m 839.355,-1067.83 c 0,7.7 0,16.86 0,25.41"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4067"
+           points="839.355,-1032.41 835.855,-1042.41 842.855,-1042.41 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge162">
+        <title
+           id="title4070">linecache-&gt;traceback</title>
+        <path
+           id="path4072"
+           d="m 873.298,-1081.6 c 95.931,12.42 369.082,47.79 477.202,61.79"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4074"
+           points="1360.44,-1018.52 1350.07,-1016.34 1350.97,-1023.28 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge122">
+        <title
+           id="title4077">linecache-&gt;inspect</title>
+        <path
+           id="path4079"
+           d="m 824.288,-1069.28 c -8.814,10.29 -19.775,24.01 -27.933,37.28 -18.433,29.99 -22.456,38.415 -33,72 -25.56,81.415 -24.536,110.27 0,192 10.122,33.714 5.542,49.974 33,72 59.565,47.782 119.993,-23.384 168,36 10.059,12.443 9.442,23.083 0,36 -31.104,42.554 -62.798,19.935 -113,36 -6.6,2.112 -13.636,4.369 -20.413,6.546"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4081"
+           points="821.279,-578.348 829.729,-584.74 831.871,-578.076 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge302">
+        <title
+           id="title4084">tokenize-&gt;gettext</title>
+        <path
+           id="path4086"
+           d="m 92.9062,-629.623 c 22.6578,11.908 57.0628,29.99 82.0438,43.118"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4088"
+           points="184.018,-581.739 173.538,-583.293 176.795,-589.489 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge126">
+        <title
+           id="title4091">tokenize-&gt;inspect</title>
+        <path
+           id="path4093"
+           d="m 98.417,-634.261 c 14.84,3.666 33.242,7.776 49.938,10.261 221.686,32.991 279.946,14.093 503,36 35.842,3.52 76.555,8.721 105.523,12.629"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4095"
+           points="766.989,-573.996 756.609,-571.876 757.552,-578.812 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge134">
+        <title
+           id="title4098">weakref-&gt;unittest_signals</title>
+        <path
+           id="path4100"
+           d="m 1291.57,-552.535 c 22.14,45.429 87.36,168.74 174.79,240.535 29.5,24.232 43.73,19.164 78,36 2.57,1.266 5.22,2.589 7.88,3.935"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4102"
+           points="1561.26,-267.45 1550.77,-268.889 1553.95,-275.121 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge152">
+        <title
+           id="title4105">weakref-&gt;logging</title>
+        <path
+           id="path4107"
+           d="m 1308.87,-559.217 c 6.32,2.509 13.1,5.072 19.49,7.217 57.23,19.243 74.39,14.996 131,36 1.89,0.705 3.83,1.468 5.77,2.269"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4109"
+           points="1474.72,-509.508 1464.16,-510.332 1466.98,-516.739 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node129">
+        <title
+           id="title4112">fnmatch</title>
+        <ellipse
+           id="ellipse4114"
+           ry="18"
+           rx="30.896601"
+           cy="-570"
+           cx="911.35498"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text4116"
+           font-size="10.00"
+           y="-567.5"
+           x="911.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">fnmatch</text>
+      </g>
+      <g
+         class="edge"
+         id="edge146">
+        <title
+           id="title4119">fnmatch-&gt;unittest_loader</title>
+        <path
+           id="path4121"
+           d="m 966.355,-498 c 11.899,95.992 34.725,129.172 113.005,186 131.9,95.764 198.08,47.756 357,84 72.33,16.497 92.77,12.057 163,36 4.23,1.442 8.57,3.134 12.85,4.94"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4123"
+           points="1621.42,-182.976 1610.86,-183.831 1613.7,-190.23 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge238">
+        <title
+           id="title4126">fnmatch-&gt;pydeps_depgraph</title>
+        <path
+           id="path4128"
+           d="m 930.048,-555.495 c 14.775,13.109 33.385,33.923 36.307,57.495"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path4130"
+           d="m 966.355,-498 c 2.737,22.076 -13.065,41.141 -30.007,54.896"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4132"
+           points="928.017,-436.788 933.871,-445.618 938.1,-440.039 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node149">
+        <title
+           id="title4135">pdb</title>
+        <ellipse
+           id="ellipse4137"
+           ry="18"
+           rx="27"
+           cy="-870"
+           cx="1226.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text4139"
+           font-size="10.00"
+           y="-867.5"
+           x="1226.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">pdb</text>
+      </g>
+      <g
+         class="edge"
+         id="edge182">
+        <title
+           id="title4142">pdb-&gt;doctest</title>
+        <path
+           id="path4144"
+           d="m 1228.91,-851.909 c 1.33,9.451 2.99,21.227 4.49,31.832"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4146"
+           points="1234.82,-809.993 1229.96,-819.406 1236.89,-820.384 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge208">
+        <title
+           id="title4149">argparse-&gt;pydeps_pydeps</title>
+        <path
+           id="path4151"
+           d="m 439.487,-483.666 c 15.144,10.822 36.38,26.079 54.868,39.666 28.651,21.055 34.343,28.387 64,48 62.122,41.082 77,53.622 145,84 43.65,19.5 95.619,35.859 133.175,46.544"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4153"
+           points="846.237,-262.729 835.663,-262.064 837.556,-268.803 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge216">
+        <title
+           id="title4156">pydeps_dot-&gt;pydeps_pydeps</title>
+        <path
+           id="path4158"
+           d="m 1100.57,-322.964 c -8.35,3.731 -17.59,7.674 -26.21,10.964 -45.92,17.51 -99.403,34.321 -137.383,45.671"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4160"
+           points="927.184,-263.421 935.773,-269.623 937.766,-262.913 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge248">
+        <title
+           id="title4163">posixpath-&gt;fnmatch</title>
+        <path
+           id="path4165"
+           d="m 917.336,-623.831 c -0.855,7.7 -1.873,16.857 -2.824,25.414"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4167"
+           points="913.401,-588.413 911.027,-598.739 917.984,-597.966 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node177">
+        <title
+           id="title4170">json_decoder</title>
+        <ellipse
+           id="ellipse4172"
+           ry="18"
+           rx="43.824299"
+           cy="-942"
+           cx="308.35501"
+           style="fill:#23b36b;stroke:#000000" />
+        <text
+           id="text4174"
+           font-size="10.00"
+           y="-939.5"
+           x="308.35501"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">json.decoder</text>
+      </g>
+      <g
+         class="node"
+         id="node179">
+        <title
+           id="title4177">json</title>
+        <ellipse
+           id="ellipse4179"
+           ry="18"
+           rx="27"
+           cy="-870"
+           cx="308.35501"
+           style="fill:#23b36b;stroke:#000000" />
+        <text
+           id="text4181"
+           font-size="10.00"
+           y="-867.5"
+           x="308.35501"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">json</text>
+      </g>
+      <g
+         class="edge"
+         id="edge224">
+        <title
+           id="title4184">json_decoder-&gt;json</title>
+        <path
+           id="path4186"
+           d="m 308.355,-923.831 c 0,7.7 0,16.857 0,25.414"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4188"
+           points="308.355,-888.413 304.855,-898.413 311.855,-898.413 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node180">
+        <title
+           id="title4191">json_encoder</title>
+        <ellipse
+           id="ellipse4193"
+           ry="18"
+           rx="43.824299"
+           cy="-942"
+           cx="414.35501"
+           style="fill:#23b32b;stroke:#000000" />
+        <text
+           id="text4195"
+           font-size="10.00"
+           y="-939.5"
+           x="414.35501"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">json.encoder</text>
+      </g>
+      <g
+         class="edge"
+         id="edge226">
+        <title
+           id="title4198">json_encoder-&gt;json</title>
+        <path
+           id="path4200"
+           d="m 391.615,-926.554 c -16.266,11.048 -38.25,25.982 -55.544,37.728"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4202"
+           points="327.51,-883.011 333.815,-891.525 337.748,-885.734 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node182">
+        <title
+           id="title4205">token</title>
+        <ellipse
+           id="ellipse4207"
+           ry="18"
+           rx="27"
+           cy="-714"
+           cx="64.355103"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text4209"
+           font-size="10.00"
+           y="-711.5"
+           x="64.355103"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">token</text>
+      </g>
+      <g
+         class="edge"
+         id="edge300">
+        <title
+           id="title4212">token-&gt;gettext</title>
+        <path
+           id="path4214"
+           d="M 44.0043,-701.881 C 24.2352,-688.42 -1.34667,-665.472 9.35509,-642"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge228">
+        <title
+           id="title4217">token-&gt;tokenize</title>
+        <path
+           id="path4219"
+           d="m 65.6168,-695.831 c 0.5348,7.7 1.1706,16.857 1.7649,25.414"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4221"
+           points="68.0764,-660.413 63.8919,-670.147 70.8751,-670.632 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node190">
+        <title
+           id="title4224">copy_reg</title>
+        <ellipse
+           id="ellipse4226"
+           ry="18"
+           rx="33.973301"
+           cy="-792"
+           cx="1007.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text4228"
+           font-size="10.00"
+           y="-789.5"
+           x="1007.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">copy_reg</text>
+      </g>
+      <g
+         class="edge"
+         id="edge252">
+        <title
+           id="title4231">copy_reg-&gt;pickle</title>
+        <path
+           id="path4233"
+           d="m 1005.73,-773.909 c -0.85,9.451 -1.9,21.227 -2.86,31.832"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4235"
+           points="1001.97,-731.993 999.378,-742.266 1006.35,-741.64 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge242">
+        <title
+           id="title4238">copy_reg-&gt;copy</title>
+        <path
+           id="path4240"
+           d="m 1021.14,-775.458 c 9.08,10.9 21.13,25.351 31.25,37.501"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4242"
+           points="1059.03,-729.984 1049.94,-735.426 1055.32,-739.907 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node192">
+        <title
+           id="title4245">repr</title>
+        <ellipse
+           id="ellipse4247"
+           ry="18"
+           rx="27"
+           cy="-792"
+           cx="1086.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text4249"
+           font-size="10.00"
+           y="-789.5"
+           x="1086.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">repr</text>
+      </g>
+      <g
+         class="edge"
+         id="edge244">
+        <title
+           id="title4252">repr-&gt;copy</title>
+        <path
+           id="path4254"
+           d="m 1083.11,-773.909 c -1.7,9.451 -3.81,21.227 -5.72,31.832"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4256"
+           points="1075.58,-731.993 1073.91,-742.454 1080.8,-741.217 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node194">
+        <title
+           id="title4259">struct</title>
+        <ellipse
+           id="ellipse4261"
+           ry="18"
+           rx="27"
+           cy="-1086"
+           cx="739.35498"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text4263"
+           font-size="10.00"
+           y="-1083.5"
+           x="739.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">struct</text>
+      </g>
+      <g
+         class="edge"
+         id="edge246">
+        <title
+           id="title4266">struct-&gt;hashlib</title>
+        <path
+           id="path4268"
+           d="m 763.042,-1077.18 c 9.867,3.35 21.52,6.91 32.313,9.18 151.734,31.9 197.687,-5.79 347.005,36 2.17,0.61 4.37,1.33 6.56,2.13"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4270"
+           points="1158.34,-1025.97 1147.76,-1026.56 1150.44,-1033.03 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge254">
+        <title
+           id="title4273">struct-&gt;pickle</title>
+        <path
+           id="path4275"
+           d="m 739.355,-1014 c -58.893,130.084 147.77,245.806 229.31,285.452"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4277"
+           points="977.962,-724.094 967.431,-725.258 970.455,-731.571 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge274">
+        <title
+           id="title4280">struct-&gt;pydeps_mf27</title>
+        <path
+           id="path4282"
+           d="m 675.355,-498 c 14.898,21.795 36.989,41.825 54.916,56.129"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4284"
+           points="738.174,-435.716 728.134,-439.099 732.435,-444.622 "
+           style="fill:#000000;stroke:#000000" />
+        <path
+           id="path4286"
+           d="m 739.355,-1014 c -54.351,117.268 -161.368,79.51 -213,198 -62.349,143.084 60.923,189.148 149,318"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path4288"
+           d="m 741.571,-1067.99 c 1.285,14.71 1.934,35.96 -2.216,53.99"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge294">
+        <title
+           id="title4291">struct-&gt;gettext</title>
+        <path
+           id="path4293"
+           d="m 236.355,-1014 c -22.957,43.83 60.365,198.178 17,222"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path4295"
+           d="m 253.355,-792 c -91.573,48.223 -153.766,-15.079 -224.9999,60 -28.138308,29.657 -35.95966,52.802 -19.00001,90"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path4297"
+           d="m 712.119,-1085.22 c -89.639,2.9 -374.424,14.98 -456.764,53.22 -10.55,4.9 -13.716,7.64 -19,18"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <path
+           id="path4299"
+           d="m 9.35509,-642 c 13.03161,30.238 105.96191,53.685 159.40191,64.846"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4301"
+           points="178.566,-575.151 168.068,-573.723 169.469,-580.582 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge262">
+        <title
+           id="title4304">struct-&gt;json_decoder</title>
+        <path
+           id="path4306"
+           d="m 236.355,-1014 c -11.296,21.566 10.399,40.766 32.858,53.904"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4308"
+           points="278.122,-955.193 267.673,-956.948 271.049,-963.081 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node197">
+        <title
+           id="title4311">sre_constants</title>
+        <ellipse
+           id="ellipse4313"
+           ry="18"
+           rx="48.0158"
+           cy="-1086"
+           cx="1765.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text4315"
+           font-size="10.00"
+           y="-1083.5"
+           x="1765.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">sre_constants</text>
+      </g>
+      <g
+         class="node"
+         id="node199">
+        <title
+           id="title4318">sre_parse</title>
+        <ellipse
+           id="ellipse4320"
+           ry="18"
+           rx="35.822102"
+           cy="-1014"
+           cx="1733.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text4322"
+           font-size="10.00"
+           y="-1011.5"
+           x="1733.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">sre_parse</text>
+      </g>
+      <g
+         class="edge"
+         id="edge250">
+        <title
+           id="title4325">sre_constants-&gt;sre_parse</title>
+        <path
+           id="path4327"
+           d="m 1757.44,-1068.2 c -3.64,8.19 -8.04,18.1 -12.08,27.19"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4329"
+           points="1741.17,-1031.59 1742.04,-1042.15 1748.43,-1039.31 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node208">
+        <title
+           id="title4332">sre_compile</title>
+        <ellipse
+           id="ellipse4334"
+           ry="18"
+           rx="41.9758"
+           cy="-942"
+           cx="1765.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text4336"
+           font-size="10.00"
+           y="-939.5"
+           x="1765.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">sre_compile</text>
+      </g>
+      <g
+         class="edge"
+         id="edge266">
+        <title
+           id="title4339">sre_constants-&gt;sre_compile</title>
+        <path
+           id="path4341"
+           d="m 1770.9,-1067.7 c 2.85,10.36 6.02,23.63 7.46,35.7 1.88,15.89 1.88,20.11 0,36 -1.01,8.483 -2.88,17.562 -4.89,25.809"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4343"
+           points="1770.9,-960.299 1770.03,-970.858 1776.8,-969.097 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge264">
+        <title
+           id="title4346">sre_parse-&gt;sre_compile</title>
+        <path
+           id="path4348"
+           d="m 1741.27,-996.202 c 3.61,8.134 7.97,17.952 11.99,26.984"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4350"
+           points="1757.43,-959.843 1750.17,-967.559 1756.56,-970.402 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node204">
+        <title
+           id="title4353">json_scanner</title>
+        <ellipse
+           id="ellipse4355"
+           ry="18"
+           rx="43.824299"
+           cy="-1014"
+           cx="308.35501"
+           style="fill:#23b36b;stroke:#000000" />
+        <text
+           id="text4357"
+           font-size="10.00"
+           y="-1011.5"
+           x="308.35501"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">json.scanner</text>
+      </g>
+      <g
+         class="edge"
+         id="edge260">
+        <title
+           id="title4360">json_scanner-&gt;json_decoder</title>
+        <path
+           id="path4362"
+           d="m 308.355,-995.831 c 0,7.7 0,16.857 0,25.414"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4364"
+           points="308.355,-960.413 304.855,-970.413 311.855,-970.413 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="edge"
+         id="edge268">
+        <title
+           id="title4367">contextlib-&gt;pydeps_render_context</title>
+        <path
+           id="path4369"
+           d="m 635.281,-623.733 c -1.174,14.686 -1.74,35.758 2.074,53.733"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node219">
+        <title
+           id="title4372">abc</title>
+        <ellipse
+           id="ellipse4374"
+           ry="18"
+           rx="27"
+           cy="-1014"
+           cx="1106.36"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text4376"
+           font-size="10.00"
+           y="-1011.5"
+           x="1106.36"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">abc</text>
+      </g>
+      <g
+         class="edge"
+         id="edge284">
+        <title
+           id="title4379">abc-&gt;io</title>
+        <path
+           id="path4381"
+           d="m 1106.36,-995.831 c 0,7.7 0,16.857 0,25.414"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4383"
+           points="1106.36,-960.413 1102.86,-970.413 1109.86,-970.413 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <g
+         class="node"
+         id="node247">
+        <title
+           id="title4386">colorsys</title>
+        <ellipse
+           id="ellipse4388"
+           ry="18"
+           rx="32.124199"
+           cy="-642"
+           cx="723.35498"
+           style="fill:#23a2b3;stroke:#000000" />
+        <text
+           id="text4390"
+           font-size="10.00"
+           y="-639.5"
+           x="723.35498"
+           style="font-size:10px;font-family:Helvetica, sans-Serif;text-anchor:middle;fill:#ffffff">colorsys</text>
+      </g>
+      <g
+         class="edge"
+         id="edge338">
+        <title
+           id="title4393">colorsys-&gt;pydeps_colors</title>
+        <path
+           id="path4395"
+           d="m 728.558,-624.148 c 5.771,18.606 15.983,48.316 28.797,72.148 5.312,9.88 12.198,20.025 18.702,28.817"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4397"
+           points="782.113,-515.222 773.273,-521.063 778.844,-525.3 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+    </g>
+    <image
+       y="37.555107"
+       x="17.20682"
+       id="image5435"
+       xlink:href="data:image/png;base64,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
+RU5ErkJggg==
+"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="52.396893"
+       width="54.000507" />
+    <g
+       id="g5580"
+       transform="matrix(0.07634893,0,0,0.0555219,100.40194,56.545306)">
+      <g
+         id="g5523">
+	<path
+   id="path5519"
+   d="m 502,254.347 h -6 v -72 -64 C 496,97.081 479.317,79.644 458.352,78.422 L 448.079,35.987 C 444.968,23.14 431.985,15.218 419.141,18.33 L 170.07,78.627 c -0.661,-0.177 -1.353,-0.28 -2.07,-0.28 H 40 c -22.056,0 -40,17.944 -40,40 v 336 c 0,22.056 17.944,40 40,40 h 416 c 22.056,0 40,-17.944 40,-40 v -72 h 6 c 5.514,0 10,-4.486 10,-10 v -108 c 0,-5.514 -4.486,-10 -10,-10 z m -22,-136 v 0.017 c -4.012,-3.019 -8.609,-5.295 -13.586,-6.638 l -3.994,-16.5 c 10.125,2.815 17.58,12.111 17.58,23.121 z m -440,-24 h 65.136 l -66.731,16.155 c -0.042,0.008 -0.082,0.021 -0.123,0.03 l -0.165,0.04 c -0.021,0.005 -0.042,0.013 -0.063,0.019 -0.23,0.057 -0.455,0.124 -0.677,0.2 -0.04,0.014 -0.078,0.029 -0.117,0.043 -0.205,0.075 -0.406,0.156 -0.604,0.247 -0.056,0.026 -0.11,0.053 -0.165,0.079 -0.174,0.085 -0.345,0.175 -0.511,0.272 -0.069,0.04 -0.137,0.082 -0.205,0.125 -0.147,0.092 -0.292,0.188 -0.433,0.289 -0.075,0.054 -0.148,0.109 -0.221,0.165 -0.13,0.1 -0.256,0.203 -0.379,0.311 -0.072,0.063 -0.142,0.127 -0.211,0.192 -0.119,0.112 -0.234,0.226 -0.346,0.344 -0.063,0.066 -0.124,0.134 -0.184,0.203 -0.111,0.126 -0.219,0.256 -0.322,0.389 -0.052,0.066 -0.102,0.134 -0.151,0.201 -0.103,0.142 -0.201,0.287 -0.295,0.435 -0.042,0.066 -0.082,0.133 -0.122,0.201 -0.091,0.153 -0.176,0.309 -0.256,0.468 -0.036,0.072 -0.07,0.144 -0.104,0.216 -0.073,0.157 -0.141,0.315 -0.204,0.477 -0.033,0.085 -0.064,0.171 -0.094,0.257 -0.052,0.15 -0.101,0.301 -0.145,0.456 -0.031,0.108 -0.058,0.218 -0.084,0.328 -0.032,0.134 -0.062,0.268 -0.087,0.404 -0.026,0.138 -0.045,0.278 -0.064,0.417 -0.015,0.114 -0.029,0.227 -0.039,0.342 -0.014,0.162 -0.021,0.326 -0.025,0.49 -0.002,0.066 -0.01,0.131 -0.01,0.198 0,0.038 0.005,0.074 0.006,0.112 0.002,0.159 0.012,0.318 0.024,0.479 0.009,0.117 0.017,0.234 0.03,0.35 0.016,0.133 0.038,0.266 0.061,0.4 0.024,0.14 0.048,0.28 0.079,0.418 0.01,0.043 0.014,0.086 0.024,0.129 0.019,0.076 0.046,0.148 0.066,0.223 0.038,0.141 0.078,0.281 0.124,0.419 0.042,0.126 0.088,0.249 0.136,0.371 0.045,0.116 0.09,0.23 0.141,0.343 0.063,0.142 0.131,0.28 0.201,0.417 0.044,0.085 0.088,0.171 0.135,0.254 0.087,0.155 0.179,0.305 0.275,0.453 0.04,0.061 0.08,0.122 0.121,0.182 0.11,0.159 0.226,0.313 0.347,0.463 0.036,0.045 0.073,0.091 0.111,0.135 0.13,0.154 0.265,0.303 0.406,0.447 0.037,0.038 0.074,0.076 0.113,0.113 0.145,0.142 0.294,0.278 0.449,0.408 0.042,0.035 0.084,0.07 0.127,0.105 0.155,0.125 0.314,0.245 0.479,0.358 0.048,0.034 0.097,0.067 0.146,0.099 0.165,0.109 0.334,0.211 0.506,0.308 0.052,0.029 0.104,0.057 0.156,0.085 0.178,0.094 0.36,0.181 0.545,0.262 0.049,0.021 0.098,0.043 0.148,0.063 0.197,0.082 0.397,0.154 0.601,0.22 0.039,0.012 0.078,0.025 0.117,0.037 0.223,0.068 0.448,0.126 0.677,0.174 0.022,0.004 0.043,0.01 0.065,0.014 0.25,0.051 0.503,0.089 0.758,0.116 0.005,0 0.01,0.001 0.015,0.002 0.266,0.027 0.534,0.041 0.805,0.041 0.002,0 0.005,0 0.007,0 h 0.02 c 0.1,0 0.198,0.004 0.298,0 H 416 c 4.418,0 8,-3.582 8,-8 0,-4.418 -3.582,-8 -8,-8 H 107.065 l 315.84,-76.46 c 4.273,-1.037 8.589,1.6 9.623,5.872 l 17.089,70.59 h -1.613 c -4.418,0 -8,3.582 -8,8 0,4.418 3.582,8 8,8 H 456 c 0.805,0 1.601,0.042 2.386,0.119 0.31,0.058 0.625,0.096 0.943,0.117 11.663,1.626 20.671,11.66 20.671,23.764 v 0.027 c -6.69,-5.034 -15.002,-8.022 -24,-8.022 H 40 c -13.234,0 -24,-10.767 -24,-24 0,-13.233 10.767,-24 24,-24 z m 440,360 c 0,13.233 -10.766,24 -24,24 H 40 c -13.234,0 -24,-10.767 -24,-24 V 150.325 c 6.69,5.034 15.002,8.022 24,8.022 h 416 c 13.233,0 24,10.767 24,24 v 72 H 363.002 c -6.066,0 -11.002,4.936 -11.002,11.002 v 105.996 c 0,6.066 4.936,11.002 11.002,11.002 H 480 Z m 16,-88 H 368 v -96 h 119.884 c 0.039,0 0.077,0.006 0.116,0.006 0.039,0 0.077,-0.005 0.116,-0.006 H 496 Z"
+   inkscape:connector-curvature="0" />
+
+	<path
+   id="path5521"
+   d="m 432,310.347 c -4.418,0 -8,3.582 -8,8 0,4.411 -3.589,8 -8,8 -4.411,0 -8,-3.589 -8,-8 0,-4.411 3.589,-8 8,-8 4.418,0 8,-3.582 8,-8 0,-4.418 -3.582,-8 -8,-8 -13.234,0 -24,10.767 -24,24 0,13.233 10.766,24 24,24 13.234,0 24,-10.767 24,-24 0,-4.418 -3.582,-8 -8,-8 z"
+   inkscape:connector-curvature="0" />
+
+</g>
+      <g
+         id="g5525">
+</g>
+      <g
+         id="g5527">
+</g>
+      <g
+         id="g5529">
+</g>
+      <g
+         id="g5531">
+</g>
+      <g
+         id="g5533">
+</g>
+      <g
+         id="g5535">
+</g>
+      <g
+         id="g5537">
+</g>
+      <g
+         id="g5539">
+</g>
+      <g
+         id="g5541">
+</g>
+      <g
+         id="g5543">
+</g>
+      <g
+         id="g5545">
+</g>
+      <g
+         id="g5547">
+</g>
+      <g
+         id="g5549">
+</g>
+      <g
+         id="g5551">
+</g>
+      <g
+         id="g5553">
+</g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL)"
+       d="M 52.183463,113.49119 C 51.409383,98.274142 51.409383,98.274142 51.409383,98.274142"
+       id="path5582"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text6524"
+       transform="translate(7.3705346,-5.4806519)"><textPath
+         xlink:href="#path5582"
+         id="textPath6538"><tspan
+   style="stroke-width:0.26458332"
+   id="tspan6522">$</tspan></textPath></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.56500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6771)"
+       d="m 76.776742,72.759763 c 15.236525,-0.0762 15.236525,-0.0762 15.236525,-0.0762"
+       id="path6700"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text6524-1"
+       x="80.44384"
+       y="68.102852"
+       transform="rotate(-1.8425596)"><tspan
+   id="tspan6522-7"
+   style="stroke-width:0.26458332">$</tspan></text>
+    <g
+       id="g7856"
+       transform="matrix(0.01677843,0,0,0.01379303,108.69566,67.292636)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1194"
+         d="m 509.44712,37.888997 c -8.67008,0.574087 -16.48504,5.91465 -23.54613,10.771153 -17.9234,13.794146 -30.57452,33.027529 -43.29027,51.4611 -25.59088,38.34696 -47.13831,79.24918 -73.16596,117.31393 -15.44163,21.8056 -34.13854,41.07717 -53.22258,59.68648 -5.75724,5.93716 -12.57762,10.67622 -20.11879,14.06516 -14.28563,7.21616 -30.83059,11.91871 -41.19667,24.89214 -10.20325,12.43918 -14.17501,28.41114 -18.13296,43.64853 -9.55923,31.02236 -16.30938,63.07194 -18.31744,95.49611 -0.34169,17.34066 -0.83847,34.83205 0.60028,52.08139 3.64886,33.28367 12.89937,67.29713 34.42856,93.68987 14.68993,17.64354 34.88562,30.33342 56.42526,38.04666 29.79591,10.49153 61.95549,10.68554 93.14085,8.33454 18.61461,-0.17273 37.56813,1.77823 54.95459,8.81043 20.00232,7.44036 39.06114,17.27611 56.90131,28.97103 5.56751,4.16123 12.93858,3.47071 19.37685,2.20699 25.09672,-5.47383 51.02045,-4.0866 76.53318,-5.50598 14.37864,-0.34693 28.69324,-2.26547 42.51235,-6.33888 38.39912,-10.23898 76.82189,-25.04322 106.95654,-51.71075 21.7527,-19.27702 37.92643,-45.17262 44.52569,-73.5339 5.87849,-28.57004 3.4358,-58.16932 -0.80382,-86.83234 -6.45397,-40.38822 -17.90349,-80.01449 -33.16488,-117.97165 -5.41457,-13.79932 -15.14348,-25.23797 -25.8675,-35.22763 -20.52783,-19.30293 -44.50169,-34.85586 -63.16311,-56.16993 -26.41844,-30.4256 -45.74843,-66.03257 -66.58447,-100.29909 -20.60324,-33.87298 -39.87514,-69.307272 -68.16659,-97.570968 -4.85024,-5.382144 -10.67499,-9.688799 -17.30705,-12.60508 -6.38548,-3.20027 -13.07263,-5.987731 -20.30724,-5.709315 z M 448.07885,376.07963 c 9.36175,-0.36279 17.78573,8.29351 16.82605,17.6795 -0.241,8.90124 -8.96578,15.70887 -17.60295,15.03223 -9.11839,0.10281 -17.36791,-8.26877 -16.33363,-17.49536 0.37775,-8.82578 8.58825,-15.30671 17.11053,-15.21637 z m 183.12409,9.96321 c 9.6009,-0.38316 16.18815,11.80134 11.20875,19.8447 -4.08056,7.50435 -15.794,9.2536 -21.41403,2.53451 -3.38486,-3.42863 -4.53669,-8.50513 -3.02797,-13.07911 1.46297,-5.923 7.27768,-9.61197 13.23325,-9.3001 z m -62.69759,78.34535 c 7.98897,-0.0785 14.98229,8.02786 12.96635,15.9519 -0.76363,7.15082 -8.19464,11.84354 -15.04465,10.80943 -7.62069,-0.8241 -12.67721,-9.08314 -10.78977,-16.34708 1.12483,-6.0278 6.903,-10.21253 12.86807,-10.41425 z"
+         style="opacity:1;fill:#d53032;fill-opacity:1;fill-rule:evenodd;stroke:#d53032;stroke-width:1.71875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="translate(2.2471614,-0.74905379)"
+         id="g119">
+        <g
+           id="g117"
+           transform="matrix(0.1,0,0,-0.1,0,511)">
+          <g
+             transform="rotate(-180,5062.8529,201.33468)"
+             inkscape:label="Clip"
+             id="g8475">
+            <path
+               style="fill:#050505;fill-opacity:1;stroke:#050505;stroke-opacity:1"
+               sodipodi:nodetypes="ssszaassscaasszcaaaasssssccsscscssscssssccsccsssccccsascccccscccccccccscssccccccc"
+               inkscape:connector-curvature="0"
+               id="path99"
+               d="m 5469.0999,4979.4 c -36.9622,-17.2675 -138.0827,-102.419 -223.1,-188.2 -126.4841,-127.6204 -174.452,-192.1732 -248.3,-341.4 -104.652,-211.4733 -181.7191,-554.5494 -228.9,-828.4 -47.1809,-273.8506 85.571,-582.0692 -117.7467,-708.4194 -122.4551,-76.0988 -296.7559,41.3879 -413.9626,125.3454 -423.2999,303.2183 -416.603,1144.9034 -909.6906,1269.874 -486.615,123.3301 -1351.877,56.0281 -1495.7,-114.5 -65.6778,-77.8729 -62.6702,-153.3893 19.4,-399.6 125.5301,-376.5904 337.6,-704.2 624.7,-973.9 147.4,-137.7 482.0183,-204.0407 593.6,-419 27.0138,-52.0414 33.0489,-127.2981 0.2547,-175.9047 C 2939.4172,2032.2616 2572.8532,2077.1284 2421.5,1964.7 c -7.316,-5.4345 -14.5616,-10.8497 -21.7374,-16.2467 C 1704.9112,1425.8434 1888.0432,599.33934 1905.6047,-39.660605 1923.1662,-678.66055 2175.1122,-1221.6476 2431.2122,-1747.4476 c 205.6,-426.8 364.0266,-774.0568 597.785,-1130.53 240.5728,-366.8649 498.3497,-731.651 821.8509,-1027.9821 304.0009,-278.4685 617.6844,-677.8588 1029.8892,-684.8206 748.6731,-12.6445 1417.6542,617.0901 1911.4871,1179.9403 830.887,947.0105 1440.0374,2401.5904 1550.0756,3447.039995 79.4071,754.429965 -285.0025,1468.358105 -993.1079,1941.930705 -5.8407,3.9061 -11.7047,7.7959 -17.5921,11.6693 -79.5443,52.3328 -124.6541,53.3562 -145.5,110.6 -18.6833,51.3054 -52.0161,86.307 123.9179,149.9527 C 7536.3137,2332.2172 7884.5,2820.1 8107.6,3212 c 159.1,281.3 186.2,358.9 147.4,448.1 -15.5,40.8 -52.5812,81.1432 -87.3,99 -104.8836,53.9444 -712.0007,-218.0464 -1249.6514,-349.1331 -828.4691,-201.9923 -685.0432,-53.7811 -1102.1432,-195.3811 -475.6491,-130.1162 -296.6108,-158.6958 -478.0551,-187.9598 -184.1131,-29.6945 198.3212,523.1475 198.3212,523.1475 17.4,33 148.4245,269.4155 214.2284,385.9265 213.5963,378.1892 228.9919,415.1986 230.9,547.1 1.9919,137.6987 20.1275,93.8292 -103.9479,320.2352 -76.3782,139.3707 -59.8496,147.5811 -174.9585,199.3788 -83.4,34.9 -149.9555,15.9187 -233.2936,-23.014 z m 376.7945,-522.185 c 0,-21.3 -610.9868,-1149.8011 -659.6169,-1416.2461 -112.3129,-615.3646 -192.3737,-776.3493 -248.4006,-771.6133 -149.8899,12.6704 -111.4548,1594.6625 64.6584,1726.5369 73.7,244.4 -24.5496,264.2654 319.4374,657.2347 296.7244,590.9446 523.9217,-190.0122 523.9217,-195.9122 z M 3101.1673,4135.4122 c 599.4,-66 593.3858,-722.9544 944.4858,-1184.7544 110.6,-143.5 647.5095,-235.2534 653.2468,-316.7578 3.9628,-56.2956 3.8684,-56.0939 -161,-81.5 -199.8319,-30.7939 -737.4896,-133.59 -931.6822,-91.7748 -463.4102,99.7854 -936.2449,333.7925 -1158.0075,730.9224 -118.3,149.4 -279.585,298.9804 -304.885,643.53 -13.6,50.4 -55.7299,178.9822 74.2701,200.2822 263.8,42.8 652.672,127.2524 883.572,100.0524 z M 7638,3429.3 c 54.4511,-6.6638 87.9112,5.1218 100.9,-27.2 28.4441,-70.7814 -53.7022,-97.3894 -118.3,-195.9 -441.7036,-673.5915 -966.1,-1043.7 -1474.4001,-1045.7 -240.6,0 -564.2924,160.3106 -798.9924,331.0106 l -39.7754,87.3314 -20.5695,102.3377 c 102.8,436.5 913.1841,442.4633 1706.5842,518.0633 188.1,17.5 460.3889,252.5951 644.5532,230.057 z M 5065.5999,2119.9 c 155.2,-106.7 436.5,-236.7 616.9,-289.1 104.7,-31 219.2,-44.6 407.4,-52.4 539.5579,46.8668 1037.3369,7.2383 1454.0525,-378.6776 514.1,-514.0999 547.7626,-1572.56175 233.4626,-2534.7618 -140.5963,-676.0706 -498.5843,-507.6652 -788.9714,-798.4836 -575.489,-570.3336 -592.4353,-690.4174 -1075.4397,-1480.6073 -106.3173,-171.9369 -165.6723,-267.3698 -285.6712,-435.4121 -135.8611,-190.472 -282.3402,-379.1777 -508.2953,-467.9644 -58.341,-21.9514 -89.4645,-11.9511 -149.8976,-2.4184 -66.0059,10.4118 -145.4208,64.1862 -219.5178,101.7954 -394.4857,355.3235 -625.3658,850.705 -1046.0016,1525.89 -140.036,224.7794 -311.4394,480.5097 -516.0316,669.6439 -285.8246,264.2292 -629.8018,452.7146 -758.4888,780.4959 -322,812.8 -448.1,1629.6 -325.9,2093.2 54.3,203.7 176.5,424.9 322,580.1 273.5,292.9 646,490.8 1197,634.4 207.6,54.3 258,60.1 605.3,65.9 230.8999,5.8 426.7999,17.5 504.3999,34.9 188.2,42.7 205.6,38.8 333.7,-46.5 z" />
+            <path
+               sodipodi:nodetypes="cccsccsssscc"
+               transform="matrix(10,0,0,-10,7.0527244e-6,5110)"
+               inkscape:connector-curvature="0"
+               id="path4873"
+               d="m 330.92008,255.90858 c -35.18811,-12.20936 -64.40539,-32.4186 -81.38601,-57.00115 -17.0948,-22.1489 -30.69166,-42.56602 -34.42716,-65.24293 -2.36969,-14.9052 -1.72734,-20.64586 2.02301,-23.37701 1.95977,-1.42718 10.58055,-3.38097 27.04258,-6.12886 32.4382,-4.915392 69.4081,-12.655765 95.22291,4.65787 14.23649,9.72737 22.25929,22.5816 43.33982,69.43967 7.44956,16.55899 15.67791,31.0215 21.59146,37.95012 5.00001,5.85826 13.45929,10.06315 37.9886,18.88314 23.53805,8.46356 26.82844,10.1916 26.82844,14.08964 0,3.5356 -2.22529,4.132 -33.94706,9.09814 -41.9528,7.45388 -66.99536,10.448 -104.27659,-2.36863 z"
+               style="fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <path
+               sodipodi:nodetypes="csssssasassc"
+               transform="matrix(10,0,0,-10,-5.254837e-4,5110)"
+               inkscape:connector-curvature="0"
+               id="path4875"
+               d="m 598.02751,292.67643 c -12.951,-2.4037 -31.14189,-8.44087 -44.76431,-14.85631 -11.82816,-5.57043 -17.63772,-9.53942 -22.6695,-18.94314 -1.91219,-3.57364 -1.78045,-21.57533 1.14295,-25.82435 7.35389,-10.68851 21.38549,-19.04738 43.61027,-24.82543 23.60178,-6.13606 46.05291,-9.42205 94.02696,-13.76197 36.1841,-3.27335 39.2197,-9.90978 58.68815,-15.38513 12.68542,-3.56767 29.13193,-12.75761 37.85996,-11.3779 3.38763,0.53552 6.01276,0.69262 6.73629,3.04872 3.2463,10.57124 -8.14657,15.16045 -17.33766,28.28446 -29.54416,42.18633 -62.42001,71.50865 -96.10097,85.71348 -20.10838,8.48065 -42.54859,11.38783 -61.19214,7.92757 z"
+               style="fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <path
+               sodipodi:nodetypes="cscccccsscc"
+               transform="matrix(10,0,0,-10,-4.449072e-4,5110)"
+               inkscape:connector-curvature="0"
+               id="path4877"
+               d="m 492.09892,281.6148 c -5.26099,-8.19687 -8.00669,-23.49224 -6.50041,-68.04675 1.94639,-57.57259 0.68501,-43.11852 1.37536,-49.44763 0.31795,-26.45243 -0.57091,-21.46575 14.16608,-69.108392 8.05166,-28.797947 22.7188,-32.37258 34.4288,-54.2045 2.91884,-5.739303 9.78102,-14.853184 13.98913,-17.119399 20.34295,-2.297768 29.45173,27.675171 34.39642,41.285107 l -26.08241,52.359034 c -32.75486,65.75364 -36.91402,75.99909 -42.93476,105.76328 -7.82696,38.69337 -12.78121,52.07483 -17.96456,58.10084 -2.58356,2.91603 -2.45812,3.34686 -4.87365,0.41841 z"
+               style="fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          </g>
+          <ellipse
+             transform="scale(1,-1)"
+             ry="127.33918"
+             rx="127.33916"
+             cy="-323.4144"
+             cx="5662.8467"
+             id="path1250-7"
+             style="fill:#2b0000;stroke-width:4.41595745" />
+        </g>
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7858"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion7860"
+         style="font-size:16px"><rect
+           id="rect7862"
+           width="182.83762"
+           height="75.256363"
+           x="434.87067"
+           y="343.69208"
+           style="font-size:16px" /></flowRegion><flowPara
+         id="flowPara7864"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7866"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion7868"><rect
+           id="rect7870"
+           width="15.657365"
+           height="18.687822"
+           x="461.13464"
+           y="356.31897" /></flowRegion><flowPara
+         id="flowPara7872">De</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7874"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,27.657113,-31.066766)"><flowRegion
+         id="flowRegion7876"><rect
+           id="rect7878"
+           width="268.27963"
+           height="110.07691"
+           x="446.48743"
+           y="354.29868" /></flowRegion><flowPara
+         id="flowPara7880">Dependency Analysis</flowPara><flowPara
+         id="flowPara7882">Read Contributer from Git</flowPara><flowPara
+         id="flowPara7884">Random Constributer Selection</flowPara><flowPara
+         id="flowPara7888">Automated Payment</flowPara><flowPara
+         id="flowPara7886" /></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.56500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8326)"
+       d="m 124.33275,90.415269 c 0.0796,15.236511 0.0796,15.236511 0.0796,15.236511"
+       id="path8223"
+       inkscape:connector-curvature="0" />
+    <text
+       y="-100.54877"
+       x="-41.341652"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text6524-2"
+       transform="rotate(-177.38719,83.716641,103.20392)"><textPath
+         style="stroke-width:0.26458332"
+         xlink:href="#path5582-61"
+         id="textPath6538-0"><tspan
+   style="stroke-width:0.26458332"
+   id="tspan6522-2">$</tspan></textPath></text>
+  </g>
+</svg>

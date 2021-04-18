@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Ebene_1"
+   data-name="Ebene 1"
+   viewBox="0 0 146.64974 78.283302"
+   version="1.1"
+   sodipodi:docname="oco.svg"
+   width="146.64973"
+   height="78.283302"
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
+  <metadata
+     id="metadata47">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Protontypes</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1136"
+     id="namedview45"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="109.71305"
+     inkscape:cy="-17.459293"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Ebene_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#3b52ff;}.cls-2{fill:#00e6a7;}.cls-3{fill:#fb7363;}</style>
+  </defs>
+  <title
+     id="title6">Protontypes</title>
+  <path
+     class="cls-2"
+     d="m 35.79,19.247812 c -9.4,0 -16.42,7.299999 -16.42,16.849999 v 0 H 0 v 0 C 0,15.60781 15.44,0.29780995 35.79,0.29780995 v 0 19.00000205 z"
+     id="path38-3"
+     style="fill:#00e6a7" />
+  <path
+     class="cls-1"
+     d="m 35.8,53.047811 v 0 18.9 h -0.05 c -20.3,0 -35.75,-15.38 -35.75,-35.85 h 19.37 c 0.03,9.85 7.04,16.95 16.43,16.95 z"
+     id="path36-6"
+     style="fill:#3b52ff" />
+  <path
+     class="cls-2"
+     d="M 41.2426,20.194183 C 32.37998,17.06146 23.32844,21.604589 20.14573,30.608634 v 0 L 1.883075,24.153227 v 0 C 8.711744,4.834598 28.37141,-4.454497 47.55804,2.327515 v 0 l -6.3321,17.91381 z"
+     id="path38-3-7"
+     style="fill:#00e6a7"
+     inkscape:transform-center-x="10.902115"
+     inkscape:transform-center-y="-20.717732" />
+  <path
+     class="cls-1"
+     d="m 42.05764,51.725524 v 0 l 7.17253,17.48613 -0.0463,0.01897 C 30.40251,76.934463 10.271598,68.568271 2.503249,49.629589 L 20.42422,42.27869 c 3.76582,9.101757 12.94586,13.010331 21.63342,9.446834 z"
+     id="path36-6-5"
+     style="fill:#3b52ff"
+     inkscape:transform-center-x="9.7572073"
+     inkscape:transform-center-y="21.135663" />
+  <g
+     id="g262"
+     transform="translate(-81.620258,0.27788724)">
+    <path
+       class="cls-3"
+       d="M 169.93855,-0.22768426 Z"
+       id="path30" />
+    <path
+       d="m 169.93855,52.502316 c -9.41,0 -16.42,-7.3 -16.42,-16.84 v 0 h -19.38 c 0,0 0,0 0,0 0,20.49 15.45,35.79 35.8,35.79 v 0 -19 z"
+       id="path32" />
+    <path
+       d="m 188.99855,5.0123157 a 36.33,36.33 0 0 0 -19,-5.28999996 V 18.722316 c 9.24,0 16.38,7.15 16.4,16.95 v 0 c 0,9.54 -7.14,16.83 -16.4,16.84 v 19 c 20.21,0 35.77,-15.31 35.77,-35.79 -0.04,-13.37 -6.63,-24.51 -16.77,-30.7100003 z"
+       id="path34" />
+    <path
+       class="cls-1"
+       d="m 169.93855,18.672316 v 0 -18.90000026 h -0.05 c -20.3,0 -35.75,15.38000026 -35.75,35.85000026 h 19.37 c 0.03,-9.85 7.04,-16.95 16.43,-16.95 z"
+       id="path36" />
+    <path
+       class="cls-2"
+       d="m 169.93855,52.512315 c -9.4,0 -16.42,-7.299999 -16.42,-16.849999 v 0 h -19.37 v 0 c 0,20.490001 15.44,35.799996 35.79,35.799996 v 0 -18.999997 z"
+       id="path38-3-6-9"
+       style="fill:#00e6a7" />
+    <path
+       class="cls-2"
+       d="m 175.55485,51.547665 c -8.86262,3.132723 -17.91416,-1.410406 -21.09687,-10.414451 v 0 l -18.26266,6.455407 v 0 c 6.82867,19.318631 26.48834,28.607721 45.67497,21.825711 v 0 l -6.3321,-17.913809 z"
+       id="path38-3-7-2-1"
+       style="fill:#00e6a7"
+       inkscape:transform-center-x="10.902115"
+       inkscape:transform-center-y="20.717732" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="125.08723"
+     y="78.283302"
+     id="text266"><tspan
+       sodipodi:role="line"
+       id="tspan264"
+       x="125.08723"
+       y="78.283302"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'">2</tspan></text>
+</svg>
