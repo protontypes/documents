@@ -4,6 +4,30 @@ Documents of the protontypes community like logs, slides, applications, ideas, r
 
 ## Meeting logs
 
+### 2021-04-22
+_With: @ly0n, @tjarkdoering_
+
+#### What happened?
+* Namechange: Continuous Offset -> Continuous Impact
+  * Slogan: Proving sustainability by opneness
+* Questions from cloudical:
+  * Do you have requirements regarding your customer for CO2 neutrality, emissions, tree plants?
+    * Client requirements: Scaphandre must be able to run on the client servers, strong interest in going (more) sustainable, willingness to make data about their energy consumption available (amount, supplier, costs, ...)
+  * Do you have any information material?
+    * Slides, talks
+  * Interview preferred for Human Component
+* ATNC takeover preparation
+
+#### Next time
+* Date: 2021-04-22 18:30 CET
+* Place: [Jitsi](https://meet.jit.si/protontypes)
+* Agenda:
+  * Discussion for the questions from cloudical
+
+#### Links
+* https://cloudical.io/
+
+---
 ### 2021-04-15
 _With: @ly0n, @tjarkdoering, @mroswell_
 
