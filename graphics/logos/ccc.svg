@@ -15,8 +15,8 @@
    inkscape:version="1.0.2 (1.0.2+r75+1)"
    sodipodi:docname="ccc.svg"
    inkscape:export-filename="/home/cy0/gitclones/protontypes_documents/graphics/logos/ccc.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-xdpi="400"
+   inkscape:export-ydpi="400">
   <defs
      id="defs8735">
     <inkscape:path-effect
@@ -329,8 +329,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="62.416212"
-     inkscape:cy="38.499561"
+     inkscape:cx="89.803004"
+     inkscape:cy="55.72736"
      inkscape:document-units="mm"
      inkscape:current-layer="g411"
      inkscape:document-rotation="0"
@@ -352,7 +352,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -395,7 +395,7 @@
            d="m 145.90417,-139.66432 a 10.583333,10.583333 0 0 1 5.80389,-9.38566 10.583333,10.583333 0 0 1 11.00002,0.88064" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.6389px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#3a8aa6;fill-opacity:1;stroke:none;stroke-width:0.36096;"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.6389px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36096;"
            x="167.23436"
            y="132.32716"
            id="text8623"><tspan
@@ -403,7 +403,7 @@
              id="tspan8621"
              x="167.23436"
              y="132.32716"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.6389px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3a8aa6;fill-opacity:1;stroke-width:0.36096;">3</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.6389px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.36096;">3</tspan></text>
       </g>
     </g>
   </g>
