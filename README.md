@@ -19,7 +19,7 @@ _With: @ly0n, @tjarkdoering_
 * ATNC takeover preparation
 
 #### Next time
-* Date: 2021-04-22 18:30 CET
+* Date: 2021-04-29 18:30 CET
 * Place: [Jitsi](https://meet.jit.si/protontypes)
 * Agenda:
   * Discussion for the questions from cloudical
