@@ -4,6 +4,24 @@ Documents of the protontypes community like logs, slides, applications, ideas, r
 
 ## Meeting logs
 
+### 2021-04-29
+_With: @ly0n, @tjarkdoering, @nmstreethran_
+
+#### What happened?
+* Short presentation of the ATNC Takeover
+* Discussion on the Takeover pitch
+* Talking about the list future
+
+
+#### Next time
+* Date: 2021-05-06 18:30 CET
+* Place: [Jitsi](https://meet.jit.si/protontypes)
+* Agenda:
+  * Working on awesome open data
+
+
+#### Links
+
 ### 2021-04-22
 _With: @ly0n, @tjarkdoering_
 
